@@ -6,9 +6,16 @@
       <description>Quattro domande ad un italiano di talento.</description>
       <language>it</language>
       <pubDate>Sat, 15 Jun 2013 08:00:00 +0200</pubDate>
-      <lastBuildDate>Mon, 5 Aug 2013 00:00:00 +0200</lastBuildDate>
+      <lastBuildDate>Tue, 5 Nov 2013 19:00:00 +0200</lastBuildDate>
       <docs>http://www.rssboard.org/rss-specification</docs>
       <generator>thesetup.it rss generator 0.2</generator>
+      <item>
+         <title>16. Vincenzo Cosenza</title>
+         <link>http://thesetup.it/vincenzo-cosenza/</link>
+         <description>La nostra intervista a Vincenzo Cosenza: Social Media Strategist per Blogmeter.</description>
+         <pubDate>Tue, 5 Nov 2013 19:00:00 +0200</pubDate>
+         <guid>http://thesetup.it/vincenzo-cosenza/</guid>
+      </item>
       <item>
          <title>15. Alice Falchero</title>
          <link>http://thesetup.it/alice-falchero/</link>
