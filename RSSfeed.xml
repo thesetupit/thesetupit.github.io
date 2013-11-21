@@ -6,116 +6,123 @@
       <description>Quattro domande ad un italiano di talento.</description>
       <language>it</language>
       <pubDate>Sat, 15 Jun 2013 08:00:00 +0200</pubDate>
-      <lastBuildDate>Tue, 5 Nov 2013 19:00:00 +0200</lastBuildDate>
+      <lastBuildDate>Mon, 18 Nov 2013 23:00:00 +0100</lastBuildDate>
       <docs>http://www.rssboard.org/rss-specification</docs>
       <generator>thesetup.it rss generator 0.2</generator>
       <item>
-         <title>16. Vincenzo Cosenza</title>
+         <title>Carola Frediani</title>
+         <link>http://thesetup.it/carola-frediani/</link>
+         <description>La nostra intervista a Carola Frediani: Giornalista. Cyber-security, Green Economy, Hacking.</description>
+         <pubDate>Mon, 18 Nov 2013 23:00:00 +0100</pubDate>
+         <guid>http://thesetup.it/carola-frediani/</guid>
+      </item>
+      <item>
+         <title>Vincenzo Cosenza</title>
          <link>http://thesetup.it/vincenzo-cosenza/</link>
          <description>La nostra intervista a Vincenzo Cosenza: Social Media Strategist per Blogmeter.</description>
-         <pubDate>Tue, 5 Nov 2013 19:00:00 +0200</pubDate>
+         <pubDate>Tue, 5 Nov 2013 19:00:00 +0100</pubDate>
          <guid>http://thesetup.it/vincenzo-cosenza/</guid>
       </item>
       <item>
-         <title>15. Alice Falchero</title>
+         <title>Alice Falchero</title>
          <link>http://thesetup.it/alice-falchero/</link>
          <description>La nostra intervista ad Alice Falchero: country manager per l'Italia in una multinazionale austriaca.</description>
          <pubDate>Mon, 5 Aug 2013 00:00:00 +0200</pubDate>
          <guid>http://thesetup.it/alice-falchero/</guid>
       </item>
       <item>
-         <title>14. Giovanni Bajo</title>
+         <title>Giovanni Bajo</title>
          <link>http://thesetup.it/giovanni-bajo/</link>
          <description>La nostra intervista a Giovanni Bajo: sviluppatore, imprenditore, startupper.</description>
          <pubDate>Thu, 1 Aug 2013 00:01:00 +0200</pubDate>
          <guid>http://thesetup.it/giovanni-bajo/</guid>
       </item>
       <item>
-         <title>13. Federico Badaloni</title>
+         <title>Federico Badaloni</title>
          <link>http://thesetup.it/federico-badaloni/</link>
          <description>La nostra intervista a Federico Badaloni, information architect per il gruppo l'Espresso.</description>
          <pubDate>Mon, 29 Jul 2013 00:01:00 +0200</pubDate>
          <guid>http://thesetup.it/federico-badaloni/</guid>
       </item>
       <item>
-         <title>12. Giuseppe Marini</title>
+         <title>Giuseppe Marini</title>
          <link>http://thesetup.it/giuseppe-marini/</link>
          <description>La nostra intervista a Giuseppe Marini, sviluppatore software per l'associazione Agorà Digitale.</description>
          <pubDate>Thu, 25 Jul 2013 00:01:00 +0200</pubDate>
          <guid>http://thesetup.it/giuseppe-marini/</guid>
       </item>
       <item>
-         <title>11. Matteo Bordone</title>
+         <title>Matteo Bordone</title>
          <link>http://thesetup.it/matteo-bordone/</link>
          <description>La nostra intervista a Matteo Bordone: speaker radiofonico, opinionista, esperto di tecnologia, arti figurative, videogiochi e Kohaku Uta Gassen, "con gli occhiali neri tipo uno del pentapartito".</description>
          <pubDate>Mon, 22 Jul 2013 00:01:00 +0200</pubDate>
          <guid>http://thesetup.it/matteo-bordone/</guid>
       </item>
       <item>
-         <title>10. Simone Rebaudengo</title>
+         <title>Simone Rebaudengo</title>
          <link>http://thesetup.it/simone-rebaudengo/</link>
          <description>La nostra intervista a Simone Rebaudengo, l'uomo che sussurrava ai tostapane.</description>
          <pubDate>Thu, 18 Jul 2013 01:00:00 +0200</pubDate>
          <guid>http://thesetup.it/simone-rebaudengo/</guid>
       </item>
       <item>
-         <title>9. Amedeo Balbi</title>
+         <title>Amedeo Balbi</title>
          <link>http://thesetup.it/amedeo-balbi/</link>
          <description>La nostra intervista ad Amedeo Balbi, astrofisico, divulgatore. Autore del blog Keplero.org.</description>
          <pubDate>Mon, 15 Jul 2013 01:00:00 +0200</pubDate>
          <guid>http://thesetup.it/amedeo-balbi/</guid>
       </item>
       <item>
-         <title>8. Daniela Di Maro</title>
+         <title>Daniela Di Maro</title>
          <link>http://thesetup.it/daniela-di-maro/</link>
          <description>La nostra intervista a Daniela Di Maro, artista visiva con un debole per Arduino.</description>
          <pubDate>Thu, 11 Jul 2013 01:00:00 +0200</pubDate>
          <guid>http://thesetup.it/daniela-di-maro/</guid>
       </item>
       <item>
-         <title>7. Alessandro Metilparaben Capriccioli</title>
+         <title>Alessandro Metilparaben Capriccioli</title>
          <link>http://thesetup.it/alessandro-capriccioli/</link>
          <description>La nostra intervista ad Alessandro Capriccioli, giornalista e radicale italiano.</description>
          <pubDate>Mon, 08 Jul 2013 01:00:00 +0200</pubDate>
          <guid>http://thesetup.it/alessandro-capriccioli/</guid>
       </item>
       <item>
-         <title>6. Stefano Unterthiner</title>
+         <title>Stefano Unterthiner</title>
          <link>http://thesetup.it/stefano-unterthiner/</link>
          <description>La nostra intervista a Stefano Unterthiner, fotografo naturalista per il National Geographic.</description>
          <pubDate>Thu, 04 Jul 2013 12:30:00 +0200</pubDate>
          <guid>http://thesetup.it/stefano-unterthiner/</guid>
       </item>
       <item>
-         <title>5. Lorenzo e Luciano Cantini</title>
+         <title>Lorenzo e Luciano Cantini</title>
          <link>http://thesetup.it/lorenzo-e-luciano-cantini/</link>
          <description>La nostra intervista a Lorenzo e Luciano Cantini, startupper e maker fiorentini.</description>
          <pubDate>Mon, 01 Jul 2013 01:00:00 +0200</pubDate>
          <guid>http://thesetup.it/lorenzo-e-luciano-cantini/</guid>
       </item>
       <item>
-         <title>4. Selene Biffi</title>
+         <title>Selene Biffi</title>
          <link>http://thesetup.it/selene-biffi/</link>
          <description>La nostra intervista a Selene Biffi, giovane imprenditrice sociale a Kabul.</description>
          <pubDate>Mon, 24 Jun 2013 01:00:00 +0200</pubDate>
          <guid>http://thesetup.it/selene-biffi/</guid>
       </item>
       <item>
-         <title>3. Caterina Tiazzoldi</title>
+         <title>Caterina Tiazzoldi</title>
          <link>http://thesetup.it/caterina-tiazzoldi/</link>
          <description>La nostra intervista a Caterina Tiazzoldi, architetto tra Piemonte e New York.</description>
          <pubDate>Mon, 17 Jun 2013 01:00:00 +0200</pubDate>
          <guid>http://thesetup.it/caterina-tiazzoldi/</guid>
       </item>
       <item>
-         <title>2. Davide Boosta Dileo</title>
+         <title>Davide Boosta Dileo</title>
          <link>http://thesetup.it/davide-boosta-dileo/</link>
          <description>La nostra intervista a Davide Boosta Dileo, tastierista dei Subsonica.</description>
          <pubDate>Sat, 15 Jun 2013 10:00:00 +0200</pubDate>
          <guid>http://thesetup.it/davide-boosta-dileo/</guid>
       </item>
       <item>
-         <title>1. Francesco Dimitri</title>
+         <title>Francesco Dimitri</title>
          <link>http://thesetup.it/francesco-dimitri/</link>
          <description>La nostra intervista a Francesco Dimitri, scrittore.</description>
          <pubDate>Sat, 15 Jun 2013 09:00:00 +0200</pubDate>
