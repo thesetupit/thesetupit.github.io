@@ -1,0 +1,337 @@
+@charset "utf-8";
+
+@font-face{
+font-family:'miso';
+src: url('./miso-light.otf') format('opentype');
+}
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+	position: relative;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+/*
+	Clear Floated Elements
+*/
+
+.clear {
+	clear:both;
+	display:block;
+	overflow:hidden;
+	visibility:hidden;
+	width:0;
+	height:0;
+}
+
+.clear:after {
+	clear:both;
+	content:' ';
+	display:block;
+	font-size:0;
+	line-height:0;
+	visibility:hidden;
+	width:0;
+	height:0;
+}
+
+* html .clear {height:1%;}
+
+/*
+	Style HTML Tags
+*/
+
+html {
+	height:100%;
+}
+body {
+	background: #000;
+	color: #333;
+	font-family: 'Dosis';
+	font-size: 13px;
+	line-height: 1.62em;
+	height: 100%;
+}
+a {
+	color:#21759b;
+	text-decoration:none;
+	-moz-transition: color .25s ease, margin .25s ease;
+	-webkit-transition: color .25s ease, margin .25s ease;
+	-o-transition: color .25s ease, margin .25s ease;
+	-ms-transition: color .25s ease, margin .25s ease;
+	transition: color .25s ease, margin .25s ease;
+}
+a:hover {
+	color:#d54e21;
+}
+h1, h2, h3, h4, h5, h6 {
+	/* margin-bottom:18px; */
+	font-weight:300;
+	line-height:1em;
+	letter-spacing:1px;
+}
+h1 {
+	font-size:36px;
+}
+h2 {
+	font-size:32px;
+}
+h3 {
+	font-size:20px;
+	margin-bottom:12px;
+}
+p {
+	font-size:16px;
+	margin-bottom:24px;
+}
+
+/*
+	Theme Design, Layout and Typography
+*/
+
+#wrapper {
+	max-width:1140px;
+	margin:0 auto;
+	/*box-shadow:0 0 18px rgba(0, 0, 0, .4);*/
+	background:#f8f8f8;
+	overflow:hidden;
+	padding-bottom:25px;
+}
+#site-title a,
+#site-description {
+	color:#333;
+}
+#site-title,
+#site-description {
+	font-family:'miso';
+}
+#site-title {
+	margin-top:25px;
+	text-align:center;
+	font-size:70px;
+	letter-spacing:1px;
+}
+#site-description {
+	text-align:center;
+	font-size:24px;
+	font-weight:normal;
+}
+#sidebar-header {
+	float:right;
+	width:728px;
+	height:90px;
+	margin:15px 0;
+	overflow:hidden;
+}
+#social-media-icons {
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	margin-top: 25px;
+}
+a.social-media-icon {
+	display: inline-block;
+	width: 32px;
+	height: 32px;
+	background-position: 0 0;
+	overflow: hidden;
+	text-indent: -1000px;
+	-moz-transition: background-position .25s ease;
+	-webkit-transition: background-position .25s ease;
+	-o-transition: background-position .25s ease;
+	-ms-transition: background-position .25s ease;
+	transition: background-position .25s ease;
+}
+a.social-media-icon:hover {
+	background-position: 0 -32px;
+}
+.facebook {
+	background-image: url(immagini/facebook-32.png);
+}
+.twitter {
+	background-image: url(immagini/twitter-32.png);
+}
+.pinterest {
+	background-image: url(immagini/pinterest.png);
+}
+.flickr {
+	background-image: url(immagini/flickr.png);
+}
+.vimeo {
+	background-image: url(immagini/vimeo.png);
+}
+.youtube {
+	background-image: url(immagini/youtube.png);
+}
+.google-plus {
+	background-image: url(immagini/google-plus-32.png);
+}
+#header-image {
+	display:block;
+	max-width:99.1%;
+	padding:0.45%;
+	margin-bottom:1.76%;
+	box-shadow:0 0 3px #999;
+	background:#fff;
+}
+div.elemento {
+	background-color:#fff;
+	width:332px;
+	float:left;
+	margin:10px;
+	border-bottom:#DDD 1px solid;
+	border-bottom:rgba(0, 0, 0, .13) 1px solid;
+	box-shadow:0 0 5px rgba(0, 0, 0, .1);
+}
+article#intervista {
+	margin-left:auto;
+	margin-right:auto;
+	background-color: #0F0;
+	background: #fff;
+	border-bottom: #DDD 1px solid;
+	border-bottom: rgba(0, 0, 0, .13) 1px solid;
+	box-shadow: 0 0 5px rgba(0, 0, 0, .1);
+	padding:20px;
+	max-width:800px;
+}
+h2.indice {
+	font-family:'Dosis';
+	font-size:28px;
+	text-align:center;
+}
+header.indice {
+	padding:10px;
+}
+header#titolo-intervista {
+	margin:80px 0 0 0;
+}
+div#contenitore {
+	margin: 25px auto 0 auto;
+}
+.tags {
+	margin: auto;
+}
+.tags a {
+	position: relative;
+	display: inline-block;
+	padding:1px 4px 1px 16px;
+	margin: 8px;
+	background:#F8F8F8;
+	background:-moz-linear-gradient(#F8F8F8, #F3F3F3);
+	background:-webkit-linear-gradient(#F9F9F9, #F3F3F3);
+	background:-o-linear-gradient(#F8F8F8, #F3F3F3);
+	background:-ms-linear-gradient(#F8F8F8, #F3F3F3);
+	background:linear-gradient(#F8F8F8, #F3F3F3);
+	border-radius:4px;
+	box-shadow:0 1px 1px rgba(0, 0, 0, .2);
+	color: #333;
+	font-size: 12px;
+}
+.tags a:before {
+	content: "";
+	position: absolute;
+	top: 8px;
+	left: 6px;
+	width: 6px;
+	height: 6px;
+	background: #fff;
+	border-radius: 3px;
+	box-shadow:inset 0 1px 1px rgba(0, 0, 0, .2);
+}
+.tags a:hover {
+	top: -3px;
+	-moz-transition: top .1s ease;
+	-webkit-transition: top .1s ease;
+	-o-transition: top .1s ease;
+	-ms-transition: top .1s ease;
+	transition: top .1s ease;
+}
+
+#ritratto-intervista {
+	float:left;
+	margin:0 25px 0 0;
+}
+figure.postazione {
+	margin-left:auto;
+	margin-right:auto;
+}
+div#about {
+	font-family:'miso';
+	position:absolute;
+	font-size:24px;
+	top:10px;
+	right:25%;
+}
+aside#credit {
+	color:#aaa;
+}
+aside#social-home {
+	position:absolute;
+	font-size:24px;
+	top:10px;
+	left:22%;
+}
+aside#social {
+	text-align:center;
+	margin-top: 15px;
+}
+time#data-pubblicazione {
+    position:absolute;
+    top:3px;
+    right:5px;
+    /*color:#ccc;*/
+    text-align:center;
+    font-size:90%;
+}
+table#tab-about {
+    width:100%;
+}
+aside.piccolo-spazio {
+    margin-top:10px;
+    text-align:center;
+}
+aside.intervista-precedente {
+    position: absolute;
+    font-size:16px;
+    right:20px;
+    bottom:200px;
+}
