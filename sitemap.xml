@@ -2,8 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
    <url>
       <loc>http://thesetup.it/</loc>
-      <lastmod>2013-12-11</lastmod>
+      <lastmod>2014-01-06</lastmod>
       <changefreq>weekly</changefreq>
+   </url>
+   <url>
+      <loc>http://thesetup.it/anna-masini/</loc>
+      <lastmod>2014-01-06</lastmod>
+      <changefreq>monthly</changefreq>
    </url>
    <url>
       <loc>http://thesetup.it/francesco-majo/</loc>

@@ -6,9 +6,16 @@
       <description>Quattro domande ad un italiano di talento.</description>
       <language>it</language>
       <pubDate>Sat, 15 Jun 2013 08:00:00 +0200</pubDate>
-      <lastBuildDate>Wed, 11 Dec 2013 22:00:00 +0100</lastBuildDate>
+      <lastBuildDate>Mon, 6 Dec 2013 00:00:00 +0100</lastBuildDate>
       <docs>http://www.rssboard.org/rss-specification</docs>
       <generator>thesetup.it rss generator 0.2</generator>
+      <item>
+         <title>Anna Masini</title>
+         <link>http://thesetup.it/anna-masini/</link>
+         <description>La nostra intervista a Ninamasina, disegnatrice.</description>
+         <pubDate>Mon, 6 Jan 2014 00:00:00 +0100</pubDate>
+         <guid>http://thesetup.it/anna-masini/</guid>
+      </item>
       <item>
          <title>Francesco Majo</title>
          <link>http://thesetup.it/francesco-majo/</link>
