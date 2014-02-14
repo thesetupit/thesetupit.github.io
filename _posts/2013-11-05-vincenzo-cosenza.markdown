@@ -2,7 +2,7 @@
 layout: intervista
 date: 2013-11-05 19:00:00 Europe/Rome
 categories: intervista
-nome: "Francesco Dimitri"
+nome: "Vincenzo Cosenza"
 short_description: "Social media strategist"
 tags: "social media strategist"
 ritratto: Vincenzo-Cosenza-332x332.jpg
