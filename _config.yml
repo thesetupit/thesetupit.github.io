@@ -1,0 +1,7 @@
+name: thesetup.it
+description: "Quali strumenti usi?"
+markdown: redcarpet
+pygments: true
+permalink: /:title/
+timezone: Europe/Rome
+baseurl: http://www.thesetup.it

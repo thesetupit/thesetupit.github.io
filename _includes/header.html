@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="it-IT">
+<head>
+<meta charset="UTF-8" />
+<title>{% if page.nome %}{{ page.nome }} - {{ site.name }}{% else %}{{ site.name }}{% endif %}</title>
+<link rel="canonical" href="{{ page.url }}" />
+<link href='http://fonts.googleapis.com/css?family=Dosis:200,500' rel='stylesheet' type='text/css' />
+<link rel="alternate" type="application/rss+xml" title="thestup.it RSS feed" href="{{ site.baseurl }}/feed/" />
+<link rel='stylesheet' type='text/css' href='{{ site.baseurl }}/static/style.css' />
+<meta name="description" content="{{ site.description }}">
+{% include ga-init.html %}
+</head>

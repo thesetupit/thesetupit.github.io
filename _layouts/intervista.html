@@ -1,0 +1,38 @@
+{% include header.html %}
+<body class="intervista">
+{% include fb-init.html %}
+<div itemscope itemtype="http://schema.org/Article" id="wrapper">
+{% include title.html %}
+<section id="content">
+    <div id="contenitore">
+        <article id="intervista">
+            <time itemprop="datePublished" datetime="{{ page.date | date: "%Y-%m-%d" }}" id="data-pubblicazione">{{ page.date | date: "%d-%m-%Y" }}</time>
+            <figure id="ritratto-intervista">
+                <img itemprop="image" width="{{ page.ritratto_width }}" height="{{ page.ritratto_height }}" src="{{ site.baseurl }}/immagini/{{ page.ritratto }}" alt="{{ page.nome }}" />
+            </figure>
+            <header id="titolo-intervista"><h2 class="indice"><a href="{{ page.url }}" rel="bookmark" title="{{ page.title }}"><span itemprop="name">{{ page.nome }}</span></a></h2></header>
+            <aside id="social">
+              <div class="fb-like" data-href="{{ page.url }}" data-send="false" data-layout="button_count" data-width="450" data-show-faces="false"></div>
+                <a href="https://twitter.com/share" class="twitter-share-button" data-via="thesetupit" data-lang="it"></a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+            </aside>
+            <div class="clear"></div>
+<div itemprop="articleBody">
+{{ content }}
+</div>
+{% if page.postazione %}
+<figure class="postazione">
+<img width="{{ page.postazione_width }}" height="{{ page.postazione_height }}" src="{{ site.baseurl }}/immagini/{{ page.postazione }}" {% if page.postazione_alt %}alt="{{ page.postazione_alt }}" {% endif %}/>
+</figure>
+            {% if page.postazione_credit %}<aside id="credit">{{ page.postazione_credit }}</aside>{% endif %}
+{% endif %}
+            <!--<aside class="tags">{% for tag in page.tags %}
+              <a href="#" title="Tag: {{ tag }}">{{ tag }}</a>{% endfor %}
+            </aside>-->
+            <div class="clear"></div>
+{% include disqus.html %}
+        </article>
+    </div>
+    </section>
+</div>
+{% include footer.html %}

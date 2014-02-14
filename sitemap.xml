@@ -1,113 +1,53 @@
+---
+layout: nil
+---
+
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-   <url>
-      <loc>http://www.thesetup.it/</loc>
-      <lastmod>2014-01-06</lastmod>
-      <changefreq>weekly</changefreq>
-   </url>
-   <url>
-      <loc>http://www.thesetup.it/anna-masini/</loc>
-      <lastmod>2014-01-06</lastmod>
+  <url>
+    <loc>{{ site.baseurl }}/</loc>
+    <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>{% for post in site.posts %}
+    <url>
+      <loc>{{ site.baseurl }}{{ post.url }}</loc>
+      {% if post.sitemap.lastmod %}
+        <lastmod>{{ post.sitemap.lastmod | date: "%Y-%m-%d" }}</lastmod>
+      {% elsif post.date %}
+        <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
+      {% else %}
+        <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+      {% endif %}
+      {% if post.sitemap.changefreq %}
+        <changefreq>{{ post.sitemap.changefreq }}</changefreq>
+      {% else %}
+        <changefreq>monthly</changefreq>
+      {% endif %}
+      {% if post.sitemap.priority %}
+        <priority>{{ post.sitemap.priority }}</priority>
+      {% else %}
+        <priority>0.5</priority>
+      {% endif %}
+    </url>{% endfor %}
+  <url>
+    <loc>{{ site.baseurl }}/about/</loc>
+    {% if page.sitemap.lastmod %}
+      <lastmod>{{ page.sitemap.lastmod | date: "%Y-%m-%d" }}</lastmod>
+    {% elsif page.date %}
+      <lastmod>{{ page.date | date_to_xmlschema }}</lastmod>
+    {% else %}
+      <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+    {% endif %}
+    {% if page.sitemap.changefreq %}
+      <changefreq>{{ page.sitemap.changefreq }}</changefreq>
+    {% else %}
       <changefreq>monthly</changefreq>
-   </url>
-   <url>
-      <loc>http://www.thesetup.it/francesco-majo/</loc>
-      <lastmod>2013-12-11</lastmod>
-      <changefreq>monthly</changefreq>
-   </url>
-   <url>
-      <loc>http://www.thesetup.it/valeria-gallorini/</loc>
-      <lastmod>2013-11-26</lastmod>
-      <changefreq>monthly</changefreq>
-   </url>
-   <url>
-      <loc>http://www.thesetup.it/carola-frediani/</loc>
-      <lastmod>2013-11-18</lastmod>
-      <changefreq>monthly</changefreq>
-   </url>
-   <url>
-      <loc>http://www.thesetup.it/vincenzo-cosenza/</loc>
-      <lastmod>2013-11-05</lastmod>
-      <changefreq>monthly</changefreq>
-   </url>
-   <url>
-      <loc>http://www.thesetup.it/alice-falchero/</loc>
-      <lastmod>2013-08-14</lastmod>
-      <changefreq>monthly</changefreq>
-   </url>
-   <url>
-      <loc>http://www.thesetup.it/giovanni-bajo/</loc>
-      <lastmod>2013-08-05</lastmod>
-      <changefreq>monthly</changefreq>
-   </url>
-   <url>
-      <loc>http://www.thesetup.it/federico-badaloni/</loc>
-      <lastmod>2013-08-05</lastmod>
-      <changefreq>monthly</changefreq>
-   </url>
-   <url>
-      <loc>http://www.thesetup.it/giuseppe-marini/</loc>
-      <lastmod>2013-08-05</lastmod>
-      <changefreq>monthly</changefreq>
-   </url>
-   <url>
-      <loc>http://www.thesetup.it/matteo-bordone/</loc>
-      <lastmod>2013-08-05</lastmod>
-      <changefreq>monthly</changefreq>
-   </url>
-   <url>
-      <loc>http://www.thesetup.it/simone-rebaudengo/</loc>
-      <lastmod>2013-08-05</lastmod>
-      <changefreq>monthly</changefreq>
-   </url>
-   <url>
-      <loc>http://www.thesetup.it/amedeo-balbi/</loc>
-      <lastmod>2013-08-05</lastmod>
-      <changefreq>monthly</changefreq>
-   </url>
-   <url>
-      <loc>http://www.thesetup.it/daniela-di-maro/</loc>
-      <lastmod>2013-08-05</lastmod>
-      <changefreq>monthly</changefreq>
-   </url>
-   <url>
-      <loc>http://www.thesetup.it/alessandro-capriccioli/</loc>
-      <lastmod>2013-08-05</lastmod>
-      <changefreq>monthly</changefreq>
-   </url>
-   <url>
-      <loc>http://www.thesetup.it/stefano-unterthiner/</loc>
-      <lastmod>2013-08-05</lastmod>
-      <changefreq>monthly</changefreq>
-   </url>
-   <url>
-      <loc>http://www.thesetup.it/lorenzo-e-luciano-cantini/</loc>
-      <lastmod>2013-08-05</lastmod>
-      <changefreq>monthly</changefreq>
-   </url>
-   <url>
-      <loc>http://www.thesetup.it/selene-biffi/</loc>
-      <lastmod>2013-08-05</lastmod>
-      <changefreq>monthly</changefreq>
-   </url>
-   <url>
-      <loc>http://www.thesetup.it/caterina-tiazzoldi/</loc>
-      <lastmod>2013-08-05</lastmod>
-      <changefreq>monthly</changefreq>
-   </url>
-   <url>
-      <loc>http://www.thesetup.it/davide-boosta-dileo/</loc>
-      <lastmod>2013-08-05</lastmod>
-      <changefreq>monthly</changefreq>
-   </url>
-   <url>
-      <loc>http://www.thesetup.it/francesco-dimitri/</loc>
-      <lastmod>2013-08-05</lastmod>
-      <changefreq>monthly</changefreq>
-   </url>
-   <url>
-      <loc>http://www.thesetup.it/about/</loc>
-      <lastmod>2013-08-05</lastmod>
-      <changefreq>monthly</changefreq>
-   </url>
+    {% endif %}
+    {% if page.sitemap.priority %}
+      <priority>{{ page.sitemap.priority }}</priority>
+    {% else %}
+      <priority>0.3</priority>
+    {% endif %}
+  </url>
 </urlset>
