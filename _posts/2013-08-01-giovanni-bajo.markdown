@@ -47,7 +47,7 @@ Utilizzo [JustNotes][justnotes] per prendere appunti, e le sincronizzo tramite i
 
 Come dimenticare le e-mail, che rappresentano una parte importantissima del mio lavoro? Al momento mi trovo abbastanza bene con Apple Mail su OSX, grazie soprattutto alle potentissime e rapidissime funzionalità di ricerca, e [Mailbox][mailbox] su iOS. Utilizzo entrambi con un approccio di tipo [Inbox Zero][inboxzero] (che sto ancora affinando), ma che mi ha permesso da qualche mese a questa parte di riprendere il controllo della mia posta, senza più esserne sopraffatto.
 
-Per quanto riguarda invece il lavoro sul progetto greenApes, utilizziamo [Heroku][heroku] per il deploy del backend, [AWS S3][s3] per il data storage, [Postgres][[herokupostgres] (sempre su Heroku) come database primario, [Redis][redis] (clusterizzato sull’ottimo e innovativo [Redis Cloud][rediscloud]) come cache e storage transiente, [New Relic][newrelic] per il monitoring e l’ottimizzazione, [HipChat][hipchat] come strumento di comunicazione, più diversi servizi minori.
+Per quanto riguarda invece il lavoro sul progetto greenApes, utilizziamo [Heroku][heroku] per il deploy del backend, [AWS S3][s3] per il data storage, [Postgres][herokupostgres] (sempre su Heroku) come database primario, [Redis][redis] (clusterizzato sull’ottimo e innovativo [Redis Cloud][rediscloud]) come cache e storage transiente, [New Relic][newrelic] per il monitoring e l’ottimizzazione, [HipChat][hipchat] come strumento di comunicazione, più diversi servizi minori.
 
 ###Come miglioreresti gli strumenti che usi?
 In generale, mi trovo molto bene con l’ultramobilità, quindi con laptop e smartphone che mi consentono di lavorare ovunque sia, essendo operativo in pochi secondi.
