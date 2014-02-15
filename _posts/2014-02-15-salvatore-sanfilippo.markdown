@@ -1,6 +1,6 @@
 ---
 layout: intervista
-date: 2014-02-14 10:32:43 Europe/Rome
+date: 2014-02-15 10:32:43 Europe/Rome
 categories: intervista
 nome: "Salvatore Sanfilippo"
 short_description: "Programmatore, creatore di Redis"
