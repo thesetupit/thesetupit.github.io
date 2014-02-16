@@ -13,7 +13,7 @@ postazione_width: 332
 postazione_height: 249
 postazione_alt: "La scrivania di Alice Falchero"
 postazione_credit: "Il ritratto è ®Fabio Conti"
-sitemap.lastmod: 2014-02-13
+sitemap.lastmod: 2014-02-16
 ---
 
 
