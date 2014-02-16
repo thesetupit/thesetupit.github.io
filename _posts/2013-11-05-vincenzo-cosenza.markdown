@@ -12,13 +12,30 @@ sitemap.lastmod: 2014-02-13
 ---
 
 
-<h3>Chi sei e di che cosa ti occupi?</h3>
-<p>Stategist in <a href="http://www.blogmeter.it/" title="Blogmeter: the social media intelligence company" target="_blank">Blogmeter</a>. Osservo l'evoluzione della rete e del rapporto tra persone e brand online. Ne scrivo principalmente su <a href="http://vincos.it/" title="Vincos blog" target="_blank">vincos.it</a> e a volte sistematizzo i pensieri su carta (ho scritto <em>Social Media ROI</em> e <em>La società dei dati</em>).</p>
-<h3>Quali strumenti usi per il tuo lavoro?</h3>
-<p>Essenzialmente un portatile Windows, un iPad e un Nexus 4</p>
-<h3>Quale software?</h3>
-<p>I pacchetti di produttività più comuni, ma anche i software per le analisi delle reti sociali e la visualizzazione di dati (NodeXL, Gephi, CartoDB, ecc...).</p>
-<p>Inoltre ogni giorno uso tutti i tool di Blogmeter: Social Listening per capire le conversazioni in rete, Social Analytics per rilevare le interazioni su Facebook e Twitter, SocialTVmeter per analizzare l'impatto delle trasmissioni televisive sui social media.</p>
-<p>Siccome mi piace fotografare uso anche Adobe Lightroom come camera oscura digitale.</p>
-<h3>Come miglioreresti gli strumenti che usi?</h3>
-<p>Mi piacerebbe fossero sempre più utilizzabili efficacemente da dispositivo mobile.</p>
+###Chi sei e di che cosa ti occupi?
+Stategist in [Blogmeter][bogmeter]. Osservo l'evoluzione della rete e del rapporto tra persone e brand online. Ne scrivo principalmente su [vincos.it][blog] e a volte sistematizzo i pensieri su carta (ho scritto *[Social Media ROI][1]* e *[La società dei dati][2]*).
+
+###Quali strumenti usi per il tuo lavoro?
+Essenzialmente un portatile Windows, un [iPad][ipad] e un [Nexus 4][n4].
+
+###Quale software?
+I pacchetti di produttività più comuni, ma anche i software per le analisi delle reti sociali e la visualizzazione di dati ([NodeXL][[nodeXL], [Gephi][gephi], [CartoDB][cartodb], ecc...).
+
+Inoltre ogni giorno uso tutti i tool di Blogmeter: Social Listening per capire le conversazioni in rete, Social Analytics per rilevare le interazioni su Facebook e Twitter, SocialTVmeter per analizzare l'impatto delle trasmissioni televisive sui social media.
+
+Siccome mi piace fotografare uso anche [Adobe Lightroom][lr] come camera oscura digitale.
+
+###Come miglioreresti gli strumenti che usi?
+Mi piacerebbe fossero sempre più utilizzabili efficacemente da dispositivo mobile.
+
+
+[1]: http://www.amazon.it/Social-Media-ROI-Cosenza-Vincenzo/dp/8850331126/ "Social Media ROI su Amazon.it"
+[2]: http://www.amazon.it/societ%C3%A0-dei-dati-Bees-ebook/dp/B009D01070/ "La società dei dati su Amazon.it"
+[blogmeter]: http://www.blogmeter.it "Blogmeter: the social media intelligence company"
+[blog]: http://vincos.it "Vincos blog"
+[ipad]: www.apple.com/it/ipad/‎ "Apple iPad"
+[n4]: www.google.it/nexus/4/ "Google Nexus 4"
+[nodeXL]: http://nodexl.codeplex.com/ "NodeXL: Network Overview, Discovery and Exploration for Excel"
+[gephi]: https://gephi.org "Gephi is an interactive visualization and exploration platform for all kinds of networks and complex systems, dynamic and hierarchical graphs."
+[cartodb]: http://cartodb.com/ "From polygons to points. From hundreds to millions. No limits with CartoDB."
+[lr]: http://www.adobe.com/it/products/photoshop-lightroom.html "Adobe Photoshop Lightroom"

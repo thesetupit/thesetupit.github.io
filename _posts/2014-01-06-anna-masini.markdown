@@ -26,7 +26,7 @@ Mi occupo di immagini, di colori e di figure: l'illustrazione ha un confine labi
 ###Quali strumenti usi per il tuo lavoro?
 Le matite grasse, le matite dure, la gomma pane, il collage, l'acrilico, i pennelli, le dita. Il linoleum, il legno, le sgorbie per la stampa a mano. 
 Internet e libri per fare ricerca. La tavoletta grafica e Photoshop per mettere insieme tutto. Il divano, per fissare il soffitto. 
-Ho una Nikon D7000 e diverse polaroid, una vecchia Yashica 35mm che al momento non funziona più.
+Ho una [Nikon D7000][d7000] e diverse polaroid, una vecchia [Yashica 35mm][yashica] che al momento non funziona più.
 Questo è un set up di base, che cambia e si adatta a seconda del lavoro che sto facendo.
 
 ###Quale software?
@@ -40,6 +40,8 @@ Forse dovrei imparare meglio io a usare gli strumenti che ho già!
 
 [blog]: http://ninamasina.blogspot.it "Il blog di Ninamasina"
 [web]: http://www.ninamasina.it "Sito web di Ninamasina"
+[d7000]: http://www.kenrockwell.com/nikon/d7000.htm "KenRockwell.com: Nikon D7000"
+[yashica]: http://www.kenrockwell.com/yashica/electro-35.htm "KenRockwell.com: Yashica Electro 35"
 [ps]: http://www.adobe.com/it/products/photoshop.html‎ "Adobe Photoshop"
 [in]: http://www.adobe.com/it/products/indesign.html‎ "Adobe InDesign"
 [lr]: http://www.adobe.com/it/products/photoshop-lightroom.html "Adobe Photoshop Lightroom"
