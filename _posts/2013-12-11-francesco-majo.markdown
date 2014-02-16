@@ -45,4 +45,4 @@ Lo strumento ideale non lo ho ancora trovato, purtroppo. Il software perfetto sa
 [ied]: http://www.ied.it/ "Istituto Europeo di Design"
 [hasselblad]: http://www.hasselblad.it/prodotti/sistema-h.aspx "Hasselblad: Sistema H."
 [ps]: http://www.adobe.com/it/products/photoshop.html‎ "Adobe Photoshop"
-[lr]: http://www.adobe.com/products/photoshop-lightroom.html "Adobe Photoshop Lightroom"
+[lr]: http://www.adobe.com/it/products/photoshop-lightroom.html "Adobe Photoshop Lightroom"

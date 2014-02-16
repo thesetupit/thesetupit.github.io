@@ -42,4 +42,4 @@ Forse dovrei imparare meglio io a usare gli strumenti che ho già!
 [web]: http://www.ninamasina.it "Sito web di Ninamasina"
 [ps]: http://www.adobe.com/it/products/photoshop.html‎ "Adobe Photoshop"
 [in]: http://www.adobe.com/it/products/indesign.html‎ "Adobe InDesign"
-[lr]: http://www.adobe.com/products/photoshop-lightroom.html "Adobe Photoshop Lightroom"
+[lr]: http://www.adobe.com/it/products/photoshop-lightroom.html "Adobe Photoshop Lightroom"
