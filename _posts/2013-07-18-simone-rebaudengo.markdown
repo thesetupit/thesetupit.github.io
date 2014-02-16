@@ -17,7 +17,7 @@ sitemap.lastmod: 2014-02-13
 
 
 ###Chi sei e di che cosa ti occupi?
-Mi chiamo Simone Rebaudengo, ho 26 anni e sono Interaction designer presso [frog][1] nello studio di Monaco di Baviera, sviluppo storie che poi diventano servizi e interfacce digitali e non.
+Mi chiamo [Simone Rebaudengo][1], ho 26 anni e sono Interaction designer presso [frog][2] nello studio di Monaco di Baviera, sviluppo storie che poi diventano servizi e interfacce digitali e non.
 
 Sono un emigrante per piacere, passione e lavoro. Ho studiato e lavorato in Svezia, Olanda e Inghilterra e ora in Germania esplorarando diversi lati dell'interattività, dall'architettura generativa alle interfacce tangibili.
 
