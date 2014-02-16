@@ -13,7 +13,7 @@ postazione_width: 332
 postazione_height: 249
 postazione_credit: "Il ritratto è ®Andrea Fistetto"
 postazione_alt: "La scrivania di Francesco Dimitri"
-sitemap.lastmod: 2014-02-13
+sitemap.lastmod: 2014-02-16
 ---
 
 

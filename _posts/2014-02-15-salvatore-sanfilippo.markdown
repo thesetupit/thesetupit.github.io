@@ -12,6 +12,7 @@ postazione: salvatore-sanfilippo2-332x249.jpg
 postazione_width: 332
 postazione_height: 249
 postazione_alt: "La scrivania di Salvatore Sanfilippo"
+sitemap.lastmod: 2014-02-16
 ---
 
 

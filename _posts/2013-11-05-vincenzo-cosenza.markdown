@@ -8,7 +8,7 @@ tags: "social media strategist"
 ritratto: Vincenzo-Cosenza-332x332.jpg
 ritratto_width: 332
 ritratto_height: 332
-sitemap.lastmod: 2014-02-13
+sitemap.lastmod: 2014-02-16
 ---
 
 

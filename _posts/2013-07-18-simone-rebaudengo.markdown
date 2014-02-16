@@ -12,7 +12,7 @@ postazione: Simone-Rebaudengo2-332x249.jpg
 postazione_width: 332
 postazione_height: 249
 postazione_alt: "La scrivania di Simone Rebaudengo"
-sitemap.lastmod: 2014-02-13
+sitemap.lastmod: 2014-02-16
 ---
 
 
