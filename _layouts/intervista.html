@@ -1,10 +1,6 @@
-{% include header.html %}
-<body class="intervista">
-{% include fb-init.html %}
-<div itemscope itemtype="http://schema.org/Article" id="wrapper">
-{% include title.html %}
-<section id="content">
-    <div id="contenitore">
+---
+layout: default
+---
         <article id="intervista">
             <time itemprop="datePublished" datetime="{{ page.date | date: "%Y-%m-%d" }}" id="data-pubblicazione">{{ page.date | date: "%d-%m-%Y" }}</time>
             <figure id="ritratto-intervista">
@@ -31,8 +27,4 @@
             </aside>-->
             <div class="clear"></div>
 {% include disqus.html %}
-        </article>
-    </div>
-    </section>
-</div>
-{% include footer.html %}
+        </article> <!-- id="intervista" -->

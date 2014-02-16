@@ -1,13 +1,15 @@
 {% include header.html %}
-<body>
+<body class="{{ page.layout }}">{% if page.layout == 'home' %}
+{% include masonry-init.html %}{% endif %}
 {% include fb-init.html %}
 <div id="wrapper">
 {% include title.html %}
 <section id="content">
     <div id="contenitore">
-        <article>
 {{ content }}
-</article></div>
-</section>
-</div>
-{% include footer.html %}
+	</div> <!-- id="contenitore" -->
+</section> <!-- id="content" -->
+</div> <!-- id="wrapper" -->
+<div id="about"><a href="{{ site.baseurl }}/about">About</a></div>
+</body>
+</html>

@@ -1,0 +1,13 @@
+<script src="{{ site.baseurl }}/static/jquery.min.js"></script>
+<script src="{{ site.baseurl }}/static/jquery.masonry.min.js"></script>
+<script>
+  $(function(){
+    var $container = $('#contenitore');
+      $container.imagesLoaded( function(){
+      $container.masonry({
+        itemSelector : '.elemento',
+    isFitWidth: true
+      });
+    });
+  });
+</script>

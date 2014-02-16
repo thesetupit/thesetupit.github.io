@@ -1,11 +1,11 @@
 ---
-layout: home
+layout: default
 title:  "thesetup.it"
 date:   2013-06-15 08:00:00
 categories: home
+sitemap.lastmod: 2014-02-16
 ---
-<section id="content">
-    <div id="contenitore">{% for post in site.posts %}
+{% for post in site.posts %}
         <div class="elemento">
         <article class="indice" itemscope>
                 <figure class="entry-thumbnail">
@@ -15,7 +15,5 @@ categories: home
                 <h2 class="indice"><a href="{{ post.url }}" rel="bookmark" title="{{ post.nome }}">{{ post.nome }}</a></h2>
             </header>
             <div class="clear"></div>
-        </article>
-        </div>{% endfor %}
-    </div>
-    </section>
+        </article> <!-- class="indice" -->
+        </div> <!-- class="elemento" -->{% endfor %}
