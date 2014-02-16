@@ -38,7 +38,7 @@ Mi piacerebbe che esistesse un Macbook Air con lo schermo retina per avere una d
 [gnulinux]: https://www.gnu.org/gnu/linux-and-gnu.it.html "Linux e il sistema GNU, di Richard Stallman."
 [android]: http://www.android.com/
 [iphone]: https://www.apple.com/it/iphone/
-[s4]: www.samsung.com/Samsung+Galaxy+S+4 "Samsung S4"
+[s4]: http://www.samsung.com/Samsung+Galaxy+S+4 "Samsung S4"
 [vi]: http://en.wikipedia.org/wiki/Vi "Wikipedia EN: vi"
 [joy]: http://en.wikipedia.org/wiki/Bill_Joy "Wikipedia EN: Billy Joy"
 [clang]: http://it.wikiversity.org/wiki/Linguaggio_C "Wikiversity: Linguaggio C"
