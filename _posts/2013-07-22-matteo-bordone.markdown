@@ -37,5 +37,5 @@ Vorrei un mezza coda, anche se sono scarsissimo al pianoforte perché non mi ese
 [6]: http://maciste.tumblr.com/ "Maciste: Tutto questo non esiste."
 [kindle]: http://www.amazon.it/kindle "Kindle: l'eReader di Amazon"
 [bean]: http://www.bean-osx.com/ "Bean: A word processor for OS X"
-[pixelmator]: www.pixelmator.com "The world's most innovative, fastest, full-featured, and powerful image editing app for the Mac that has everything you need to create and edit your images."
+[pixelmator]: http://www.pixelmator.com "The world's most innovative, fastest, full-featured, and powerful image editing app for the Mac that has everything you need to create and edit your images."
 [wordpress]: http://it.wordpress.org/ "WordPress è una piattaforma di editoria personale che si focalizza sul’estetica, sugli standard web e sull’usabilità."

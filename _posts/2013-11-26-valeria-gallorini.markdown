@@ -52,5 +52,5 @@ Però ecco, c'è uno strumento che mi manca: Lo smartphone! Per rimanere in cont
 [lr]: http://www.adobe.com/it/products/photoshop-lightroom.html "Adobe Photoshop Lightroom"
 [chrome]: http://www.google.com/chrome "Google Chrome"
 [spotify]: https://www.spotify.com/it/‎ "Spotify: musica in streaming."
-[itunes]: www.apple.com/it/itunes/ "iTunes: collezione multimediale da Apple."
+[itunes]: http://www.apple.com/it/itunes/ "iTunes: collezione multimediale da Apple."
 [winamp]: http://www.winamp.com/ "it really whips the llama's ass!"

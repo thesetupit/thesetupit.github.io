@@ -58,7 +58,7 @@ Il mio sogno è un enorme tavolo di legno grezzo nel mezzo di laboratorio pieno 
 [MindNode]: https://mindnode.com/ "MindNode makes mind mapping easy."
 [Illustrator]: http://www.adobe.com/Illustrator‎ "Adobe Illustrator"
 [Keynote]: https://www.apple.com/it/mac/keynote/‎ "Apple Keynote"
-[AfterEffects]: www.adobe.com/it/products/aftereffects.html "Adobe After Effects"
+[AfterEffects]: http://www.adobe.com/it/products/aftereffects.html "Adobe After Effects"
 [MaxMsp]: http://cycling74.com/products/max/ "Max gives you all the tools to create your own music, sound, video, and interactive media applications."
 [st]: http://www.sublimetext.com/ "Sublime Text is a sophisticated text editor for code, markup and prose."
 [paperJS]: http://paperjs.org/ "Paper.js: The Swiss Army Knife of Vector Graphics Scripting."
