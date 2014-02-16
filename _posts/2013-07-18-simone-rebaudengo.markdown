@@ -23,7 +23,7 @@ Sono un emigrante per piacere, passione e lavoro. Ho studiato e lavorato in Svez
 
 Mi interessano le relazioni che instauriamo con i prodotti e gli spazi che ci circondano e come influenzare questi rapporti progettando prodotti che mutano, crescono, invecchiano,ed esprimono in qualche modo il loro punto di vista.
 
-Nel 2011 ho collaborato con Usman Haque e Cosm, la prima piattaforma per l'[Internet of Things][3], con il progetto [Addicted Products][4], provando anche a installare un "tostapane con una dipendenza" nell'ufficio del primo ministro inglese e da allora vado in giro a parlarne in posti come TEDx e UX London.
+Nel 2011 ho collaborato con [Usman Haque][haque] e Cosm, la prima piattaforma per l'[Internet of Things][3], con il progetto [Addicted Products][4], provando anche a installare un "tostapane con una dipendenza" nell'ufficio del primo ministro inglese e da allora vado in giro a parlarne in posti come TEDx e UX London.
 
 ###Quali strumenti usi per il tuo lavoro?
 Non avendo dimora fissa negli ultimi 5 anni, tendo a possedere poco o oggetti che siano trasportabili.
@@ -52,6 +52,7 @@ Il mio sogno è un enorme tavolo di legno grezzo nel mezzo di laboratorio pieno 
 [5]: http://arduino.cc/en/Main/ArduinoBoardEthernet "Arduino Ethernet"
 [6]: http://it.wikipedia.org/wiki/JavaScript "Wikipedia: JavaScript"
 [7]: http://www.bose.it "Bose: Better Sound Through Research"
+[haque]: http://www.haque.co.uk/ "Usman Haque designs interactive architecture systems and researches how people relate to each other and their spaces."
 [Processing]: http://www.processing.org "Processing: the programming language, development environment, and online community."
 [iAWriter]: http://www.iawriter.com "iA Writer: Keep your hands on the keyboard and your mind in the text."
 [MindNode]: https://mindnode.com/ "MindNode makes mind mapping easy."
