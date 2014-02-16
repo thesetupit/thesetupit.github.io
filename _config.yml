@@ -5,3 +5,4 @@ pygments: true
 permalink: /:title/
 timezone: Europe/Rome
 baseurl: http://www.thesetup.it
+exclude: README.md
