@@ -1,7 +1,13 @@
 ---
-layout: home
+layout: default
 ---
-<article id="intervista">
+<body class="about">
+{% include fb-init.html %}
+<div id="wrapper">
+{% include title.html %}
+<section id="content">
+    <div id="contenitore">
+<article id="about">
 <p>Per commentare:<br />
   <a href="https://twitter.com/thesetupit" title="thesetup.it su Twitter">@thesetupit</a><br/>
   <a href="https://facebook.com/thesetupit" title="thesetup.it su Facebook">facebook.com/thesetupit</a><br />
@@ -29,3 +35,8 @@ Il font Miso, utilizzato nella testata di thesetup.it, è scaricabile dall'indir
 L'aspetto grafico di thesetup.it è ispirato al tema Pinboard di One Designs [&nbsp;http://www.onedesigns.com/&nbsp;], rilasciato con licenza GPL [&nbsp;http://www.gnu.org/licenses/gpl-2.0.html&nbsp;].
 </p>
 </article>
+    </div> <!-- id="contenitore" -->
+</section> <!-- id="content" -->
+</div> <!-- id="wrapper" -->
+<div id="about"><a href="{{ site.baseurl }}/about/">About</a></div>
+</body>
