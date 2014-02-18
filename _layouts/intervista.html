@@ -1,6 +1,11 @@
 ---
 layout: default
 ---
+<body class="{{ page.layout }}">
+<div itemscope itemtype="http://schema.org/Article" id="wrapper">
+{% include title.html %}
+<section id="content">
+    <div id="contenitore">
         <article id="intervista">
             <time itemprop="datePublished" datetime="{{ page.date | date: "%Y-%m-%d" }}" id="data-pubblicazione">{{ page.date | date: "%d-%m-%Y" }}</time>
             <figure id="ritratto-intervista">
@@ -28,3 +33,8 @@ layout: default
             <div class="clear"></div>
 {% include disqus.html %}
         </article> <!-- id="intervista" -->
+    </div> <!-- id="contenitore" -->
+</section> <!-- id="content" -->
+</div> <!-- id="wrapper" -->
+<div id="about"><a href="{{ site.baseurl }}/about/">About</a></div>
+</body>

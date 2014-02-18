@@ -1,21 +1,16 @@
-{% include header.html %}
-<body class="home">
-<script src="{{ site.baseurl }}/static/jquery.min.js"></script>
-<script src="{{ site.baseurl }}/static/jquery.masonry.min.js"></script>
+---
+layout: default
+---
+<body class="{{ page.layout }}">{% if page.title == 'thesetup.it' %}
+{% include masonry-init.html %}{% endif %}
 {% include fb-init.html %}
-<script>
-  $(function(){
-    var $container = $('#contenitore');
-      $container.imagesLoaded( function(){
-      $container.masonry({
-        itemSelector : '.elemento',
-		isFitWidth: true
-      });
-    });
-  });
-</script>
-<div id="wrapper">
+<div {% if page.layout == 'intervista' %}itemscope itemtype="http://schema.org/Article" {% endif %}id="wrapper">
 {% include title.html %}
+<section id="content">
+    <div id="contenitore">
 {{ content }}
-</div>
-{% include footer.html %}
+	</div> <!-- id="contenitore" -->
+</section> <!-- id="content" -->
+</div> <!-- id="wrapper" -->
+<div id="about"><a href="{{ site.baseurl }}/about/">About</a></div>
+</body>
