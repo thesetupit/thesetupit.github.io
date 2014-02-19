@@ -8,7 +8,7 @@ tags: scrittore
 ritratto: Amedeo-Balbi-332x360.jpg
 ritratto_width: 332
 ritratto_height: 360
-sitemap.lastmod: 2014-02-13
+sitemap.lastmod: 2014-02-19
 ---
 
 
@@ -21,7 +21,7 @@ Il mio strumento di lavoro principale è un MacBook Pro da 15". Uso molto anche 
 ###Quale software?
 In generale sono un patito del minimalismo, quindi cerco di limitarmi a pochi strumenti che facciano poche cose ma molto bene.
 
-Per le cose di ricerca, uso soprattutto un ambiente di lavoro molto potente che si chiama IDL e che permette di elaborare immagini e fare un po' di calcolo numerico. Se c'è da fare calcolo più avanzato scrivo programmi [FORTRAN][3] o uso pacchetti appositi.
+Per le cose di ricerca, uso soprattutto un ambiente di lavoro molto potente che si chiama [IDL][idl] e che permette di elaborare immagini e fare un po' di calcolo numerico. Se c'è da fare calcolo più avanzato scrivo programmi [FORTRAN][3] o uso pacchetti appositi.
 
 Per scrivere articoli tecnici, lo standard accademico è [LaTeX][LaTeX], che uso sul Mac con un pacchetto che si chiama [TexShop][TeXShop]. LaTeX è talmente potente e versatile che ci si può fare di tutto, quindi oltre che per i testi mi capita di usarlo anche nelle presentazioni che contengono molte formule. In genere però per lezioni e conferenze uso [Keynote][Keynote].
 
@@ -44,3 +44,4 @@ Sono piuttosto soddisfatto con quello che ho. Come dicevo, non mi interessano i 
 [Dropbox]: http://dropbox.com/ "Dropbox: I tuoi file sempre con te"
 [Simplenote]: http://simplenote.com/ "Simplenote: The simplest way to keep notes."
 [NotationalVelocity]: http://notational.net/ "Notational Velocity is an application that stores and retrieves notes."
+[idl]: http://www.exelisvis.com/ProductsServices/IDL.aspx "IDL: Data Visualization Software, Exelis VIS"
