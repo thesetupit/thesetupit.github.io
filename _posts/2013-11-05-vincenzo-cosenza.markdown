@@ -19,7 +19,7 @@ Stategist in [Blogmeter][blogmeter]. Osservo l'evoluzione della rete e del rappo
 Essenzialmente un portatile Windows, un [iPad][ipad] e un [Nexus 4][n4].
 
 ###Quale software?
-I pacchetti di produttività più comuni, ma anche i software per le analisi delle reti sociali e la visualizzazione di dati ([NodeXL][[nodeXL], [Gephi][gephi], [CartoDB][cartodb], ecc...).
+I pacchetti di produttività più comuni, ma anche i software per le analisi delle reti sociali e la visualizzazione di dati ([NodeXL][nodeXL], [Gephi][gephi], [CartoDB][cartodb], ecc...).
 
 Inoltre ogni giorno uso tutti i tool di Blogmeter: Social Listening per capire le conversazioni in rete, Social Analytics per rilevare le interazioni su Facebook e Twitter, SocialTVmeter per analizzare l'impatto delle trasmissioni televisive sui social media.
 
