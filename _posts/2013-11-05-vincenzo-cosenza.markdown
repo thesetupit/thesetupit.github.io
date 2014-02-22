@@ -13,7 +13,7 @@ sitemap.lastmod: 2014-02-16
 
 
 ###Chi sei e di che cosa ti occupi?
-Stategist in [Blogmeter][bogmeter]. Osservo l'evoluzione della rete e del rapporto tra persone e brand online. Ne scrivo principalmente su [vincos.it][blog] e a volte sistematizzo i pensieri su carta (ho scritto *[Social Media ROI][1]* e *[La società dei dati][2]*).
+Stategist in [Blogmeter][blogmeter]. Osservo l'evoluzione della rete e del rapporto tra persone e brand online. Ne scrivo principalmente su [vincos.it][blog] e a volte sistematizzo i pensieri su carta (ho scritto *[Social Media ROI][1]* e *[La società dei dati][2]*).
 
 ###Quali strumenti usi per il tuo lavoro?
 Essenzialmente un portatile Windows, un [iPad][ipad] e un [Nexus 4][n4].
