@@ -7,3 +7,4 @@ timezone: Europe/Rome
 baseurl: http://www.thesetup.it
 exclude:
 - README.md
+- CNAME
