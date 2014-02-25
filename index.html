@@ -8,12 +8,12 @@ url: /
 ---
 {% for post in site.posts %}
         <div class="elemento">
-        <article class="indice" itemscope>
+        <article class="indice" itemscope itemtype="http://schema.org/Person">
                 <figure class="entry-thumbnail">
-                <a href="{{ post.url }}" rel="bookmark" title="{{ post.nome }}"><img width="{{ post.ritratto_width }}" height="{{ post.ritratto_height }}" src="{{ site.baseurl }}/immagini/{{ post.ritratto }}" alt="{{ post.nome }}" /></a>
+                <a href="{{ post.url }}" rel="bookmark" title="{{ post.nome }}" itemprop="image"><img width="{{ post.ritratto_width }}" height="{{ post.ritratto_height }}" src="{{ site.baseurl }}/immagini/{{ post.ritratto }}" alt="{{ post.nome }}" /></a>
             </figure> 
             <header class="indice">
-                <h2 class="indice"><a href="{{ post.url }}" rel="bookmark" title="{{ post.nome }}">{{ post.nome }}</a></h2>
+                <h2 class="indice"><a href="{{ post.url }}" rel="bookmark" title="{{ post.nome }}" itemprop="name">{{ post.nome }}</a></h2>
             </header>
             <div class="clear"></div>
         </article> <!-- class="indice" -->
