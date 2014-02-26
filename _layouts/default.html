@@ -1,5 +1,8 @@
 <!DOCTYPE html>
 <html lang="it-IT">
 {% include head.html %}
+<body class="{{ page.layout }}">
 {{ content }}
+{% include piwik-init.html %}
+</body>
 </html>
