@@ -1,0 +1,7 @@
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@thesetupit">
+<meta name="twitter:title" content="{% if page.nome %}Gli strumenti di {{ page.nome }}{% else %}{{ site.name }}{% endif %}">
+<meta name="twitter:description" content="{% if page.short_description %}{{ page.short_description }}{% else %}{{ site.description }}{% endif %}">
+<meta name="twitter:creator" content="@thesetupit">{% if page.ritratto %}
+<meta name="twitter:image:src" content="{{ site.baseurl }}/immagini/{{ page.ritratto }}">{% endif %}
+<meta name="twitter:domain" content="www.thesetup.it">
