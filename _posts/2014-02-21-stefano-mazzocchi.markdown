@@ -3,7 +3,7 @@ layout: intervista
 date: 2014-02-21 23:57:44 Europe/Rome
 categories: intervista
 nome: "Stefano Mazzocchi"
-short_description: "Scrittore fantasy"
+short_description: "Software engineer presso Google"
 tags: scrittore
 ritratto: stefano-mazzocchi-332x426.jpg
 ritratto_width: 332
