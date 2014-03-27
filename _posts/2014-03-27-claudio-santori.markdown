@@ -9,6 +9,10 @@ tags:
 ritratto: claudio-santori.jpg
 ritratto_width: 332
 ritratto_height: 221
+postazione: claudio-santori-postazione.jpg
+postazione_width: 332
+postazione_height: 441
+postazione_alt: "La scrivania di Claudio Santori :)"
 ---
 ###Chi sei e di che cosa ti occupi?
 Mi chiamo [Claudio Santori][1], da 10 anni vivo all'estero (prima Finlandia, ora Lituania). Due anni fa ho avuto un'idea di come poter apprendere le lingue in modo alternativo e ho fondato [Bliu Bliu][bliubliu]. Invece di offrire lezioni, offriamo la possibilità di navigare contenuti (testo audio video) al livello dello studente.
