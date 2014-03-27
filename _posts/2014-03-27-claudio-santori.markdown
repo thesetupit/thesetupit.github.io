@@ -39,6 +39,7 @@ Bliu Bliu è un motore di ricerca, simile a Google, solo che ricerca contenuti n
 - [Skype][skype]
 - Podcast
 - [Feedly][feedly]
+- [f.lux][flux], che cambia la luminosità dello schermo in base all'orario, rilassando la vista durante le ore notturne
 - [Bliu Bliu][bliubliu], per l'apprendimento delle lingue :)
 
 ###Come miglioreresti quello che usi per lavorare?
@@ -58,3 +59,4 @@ Il mio timer da cucina è lo strumento più prezioso che ho e non credo si possa
 [mac]: http://www.apple.com/it/mac "Apple computers."
 [iphone]: https://www.apple.com/iphone/ "Apple iPhone"
 [kindle]: http://www.amazon.it/kindle "Kindle: l'eReader di Amazon"
+[flux]: http://justgetflux.com "f.lux is free software that warms up your computer display at night, to match your indoor lighting."
