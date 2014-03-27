@@ -4,7 +4,9 @@ date: 2013-07-22 00:01:00 Europe/Rome
 categories: intervista
 nome: "Matteo Bordone"
 short_description: "Speaker, blogger"
-tags: speaker blogger
+tags:
+- speaker
+- blogger
 ritratto: Matteo-Bordone-332x443.jpg
 ritratto_width: 332
 ritratto_height: 443
@@ -12,10 +14,8 @@ postazione: Matteo-Bordone2-332x443.jpg
 postazione_width: 332
 postazione_height: 443
 postazione_alt: "La scrivania di Matteo Bordone"
-sitemap.lastmod: 2014-02-16
+sitemap.lastmod: 2014-03-27
 ---
-
-
 ###Chi sei e di che cosa ti occupi?
 Sono un quarantenne di Varese. Vivo a Milano. Parlo di coltura pop, prodotti culturali e industriali, dai videogiochi alle lavatrici. L'ho fatto tanto alla radio, lo faccio sui giornali e [in rete][1], e un pochino alla tv. Gli elettrodomestici sono gli ultimi arrivati, da qualche anno, da quando c'è Wired Italia. Alcuni pensano che non ne sappia a sufficienza di niente, occupandomi di così tanti argomenti, e forse hanno ragione. Io spero di saperne abbastanza per vedere quello che collega [Bioshock][2], [Ayn Rand][3] e [Florence & The Machine][4]. A volte ci riesco, altre volte no. Ho due gatti e parecchi pesci. Strimpello il pianoforte. Ho un impianto hifi che si sente da dio e dei glicini sul balcone.
 

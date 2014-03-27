@@ -4,7 +4,9 @@ date: 2013-07-11 09:00:00 Europe/Rome
 categories: intervista
 nome: "Daniela Di Maro"
 short_description: "Artista Arduino-powered"
-tags: artista maker
+tags:
+- artista
+- maker
 ritratto: Daniela-Di-Maro-332x443.jpg
 ritratto_width: 332
 ritratto_height: 443
@@ -12,10 +14,8 @@ postazione: Daniela-Di-Maro2-332x268.jpg
 postazione_width: 332
 postazione_height: 268
 postazione_alt: "La scrivania di Daniela Di Maro"
-sitemap.lastmod: 2014-02-13
+sitemap.lastmod: 2014-03-27
 ---
-
-
 ###Chi sei e di che cosa ti occupi?
 Mi chiamo [Daniela Di Maro][1], ho 35 anni e sono una (felice) artista visiva. Credo che il lavoro che faccio, per la sua intrinseca trasversalità, sia tra i più interessanti che l’uomo abbia mai potuto inventare... La mia ricerca è la conseguenza di un approccio interdisciplinare in cui convivono riflessioni di carattere antropologico, biologico ed estetico, veicolate spesso dall’utilizzo delle nuove tecnologie. L’osservazione delle dinamiche naturali è alla base del mio operato che, attraverso i linguaggi del disegno, del video e dell’installazione, indaga altre possibili relazioni tra l’Uomo e la Natura. Praticamente, indago, ricerco e studio determinati fenomeni e li elaboro, dando vita a scenari e sensazioni inconsuete, alimentando riflessioni (spero!) in chi si trova dall’altra parte ad osservare. In verità, chi osserva le mie opere, diventa parte integrante ed attiva dell’opera stessa, anche se, spesso, lo diventa in maniera inconsapevole...
 

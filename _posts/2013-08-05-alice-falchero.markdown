@@ -4,7 +4,8 @@ date: 2013-08-05 00:00:00 Europe/Rome
 categories: intervista
 nome: "Alice Falchero"
 short_description: "Country manager"
-tags: "country manager"
+tags:
+- country manager
 ritratto: Alice-Falchero-332x498.jpg
 ritratto_width: 332
 ritratto_height: 498
@@ -13,10 +14,8 @@ postazione_width: 332
 postazione_height: 249
 postazione_alt: "La scrivania di Alice Falchero"
 postazione_credit: "Il ritratto è ®Fabio Conti"
-sitemap.lastmod: 2014-02-16
+sitemap.lastmod: 2014-03-27
 ---
-
-
 ###Chi sei e di che cosa ti occupi?
 Sono Alice, "quella che risponde alle domande per [Ecco Verde][1]". Lavoro in Austria come country manager Italy per NiceShops, e-commerce che gestisce diversi siti, tre dei quali tradotti in italiano. Chi li conosce mi associa alla persona che risponde alle mail, dà consigli e scherza su facebook: questa è però solo una piccola parte del mio lavoro, forse la più divertente ma non l’unica – non si direbbe ma sono una persona seria! – Sono responsabile della traduzione dei siti in lingua italiana, della pubblicità e dei contatti con l’Italia: gestione dei fornitori e servizio clienti (e quindi gestione mail e amministrazione delle pagine Facebook). Inoltre aiuto nella coordinazione e gestione degli altri traduttori e svolgo supervisione per i colleghi del servizio clienti Italia. Ogni tanto, quando serve, cerco di dare una mano azzardandomi a mandare mail e a gestire clienti e fornitori di lingua spagnola, francese e inglese, ma meglio non esagerare. Sono anche interprete durante le riunioni internazionali.
 

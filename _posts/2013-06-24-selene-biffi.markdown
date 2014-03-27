@@ -4,7 +4,8 @@ date: 2013-06-24 01:00:00 Europe/Rome
 categories: intervista
 nome: "Selene Biffi"
 short_description: "Imprenditrice sociale a Kabul"
-tags: imprenditore
+tags:
+- imprenditore
 ritratto: Selene-Biffi-332x294.jpg
 ritratto_width: 332
 ritratto_height: 294
@@ -13,10 +14,8 @@ postazione_width: 332
 postazione_height: 221
 postazione_credit: "Fotografie ®Rolex Awards / Reto Albertalli"
 postazione_alt: "La scuola di storytelling di Selene Biffi"
-sitemap.lastmod: 2014-02-13
+sitemap.lastmod: 2014-03-27
 ---
-
-
 ###Chi sei e di che cosa ti occupi?
 Mi chiamo Selene Biffi, ho 30 anni e sono un’imprenditrice sociale *di lungo corso*.
 

@@ -4,14 +4,13 @@ date: 2013-07-29 00:01:00 Europe/Rome
 categories: intervista
 nome: "Federico Badaloni"
 short_description: "Information architect per il gruppo l'Espresso"
-tags: "information architect"
+tags:
+- information architect
 ritratto: federico-badaloni-332x258.jpg
 ritratto_width: 332
 ritratto_height: 258
-sitemap.lastmod: 2014-02-13
+sitemap.lastmod: 2014-03-27
 ---
-
-
 ###Chi sei e di che cosa ti occupi?
 Mi chiamo [Federico Badaloni][1] e curo l'Architettura dell'Informazione per la Divisione Digitale del Gruppo Editoriale l'Espresso.
 

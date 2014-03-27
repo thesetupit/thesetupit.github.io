@@ -4,14 +4,13 @@ date: 2013-06-15 10:00:00 Europe/Rome
 categories: intervista
 nome: "Davide Boosta Dileo"
 short_description: "Tastierista dei Subsonica"
-tags: musicista
+tags:
+- musicista
 ritratto: Davide-Boosta-Dileo-332x326.jpg
 ritratto_width: 332
 ritratto_height: 326
-sitemap.lastmod: 2014-02-13
+sitemap.lastmod: 2014-03-27
 ---
-
-
 ###Chi sei e di che cosa ti occupi?
 [Musicista][1], in mezzo ad altre cose e [mi affanno a raccontarle][2].
 

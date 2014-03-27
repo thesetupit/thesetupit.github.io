@@ -4,7 +4,9 @@ date: 2013-11-26 00:00:00 Europe/Rome
 categories: intervista
 nome: "Valeria Gallorini"
 short_description: "Food blogger zozzoveg"
-tags: "food blogger"
+tags:
+- blogger
+- food blogger
 ritratto: valeria-gallorini-332x381.jpg
 ritratto_width: 332
 ritratto_height: 381
@@ -12,10 +14,8 @@ postazione: valeria-gallorini2-332x166.jpg
 postazione_width: 332
 postazione_height: 166
 postazione_alt: "Dove lavora Valeria Gallorini"
-sitemap.lastmod: 2014-02-16
+sitemap.lastmod: 2014-03-27
 ---
-
-
 ###Chi sei e di che cosa ti occupi?
 Mi chiamo Valeria Gallorini, Angie è il nick che mi accompagna ormai da parecchi anni e lo sento un po' come il mio secondo nome.
 

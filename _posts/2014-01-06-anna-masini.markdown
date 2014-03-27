@@ -4,7 +4,8 @@ date: 2014-01-06 00:00:00 Europe/Rome
 categories: intervista
 nome: "Anna Masini (Ninamasina)"
 short_description: "Disegnatrice"
-tags: disegnatore
+tags:
+- disegnatore
 ritratto: Ninamasina-332x332.jpg
 ritratto_width: 332
 ritratto_height: 332
@@ -13,10 +14,8 @@ postazione_width: 332
 postazione_height: 249
 postazione_credit: "Il ritratto è ®Andrea Fistetto"
 postazione_alt: "La scrivania di Francesco Dimitri"
-sitemap.lastmod: 2014-02-16
+sitemap.lastmod: 2014-03-27
 ---
-
-
 ###Chi sei e di che cosa ti occupi?
 Mi chiamo [Anna Masini][blog] e sono principalmente un'illustratrice: disegno, dipingo.
 

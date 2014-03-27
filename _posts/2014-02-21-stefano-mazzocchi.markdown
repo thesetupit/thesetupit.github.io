@@ -4,13 +4,13 @@ date: 2014-02-21 23:57:44 Europe/Rome
 categories: intervista
 nome: "Stefano Mazzocchi"
 short_description: "Software engineer presso Google"
-tags: scrittore
+tags:
+- scrittore
 ritratto: stefano-mazzocchi-332x426.jpg
 ritratto_width: 332
 ritratto_height: 426
+sitemap.lastmod: 2014-03-27
 ---
-
-
 ###Chi sei e di che cosa ti occupi?
 Mi chiamo [Stefano Mazzocchi][persoweb]. Ho 39 anni e sono sposato con Jessica e abbiamo un figlio di 3 anni di nome Matteo. Sono nato e cresciuto a Pavia ma da 10 anni vivo negli Stati Uniti, prima a Boston poi a Los Angeles. Sono un ingegnere elettronico di educazione ma un ingegnere informatico di vocazione. Da 4 anni lavoro a Google sul motore di ricerca. In particolare, in questo momento, gestisco il team che crea e supporta il software responsabile per la cura e il mantenimento del [Knowledge Graph][graph] da parte di operatori umani. Sono arrivato a Google tramite l'acquisizione della start-up per cui lavoravo (Metaweb), acquisita da Google nel 2010. Prima di Metaweb, sono stato ricercatore al [MIT][mit] a Boston per 5 anni lavorando nel campo del web semantico. E prima ancora, sono stato un accanito sostenitore e contributore volontario del software open source in particolare come membro dal 1999 e poi come direttore (per 2 anni) della [Apache Software Foundation][apache].
 

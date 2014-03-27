@@ -4,7 +4,8 @@ date: 2013-07-18 01:00:00 Europe/Rome
 categories: intervista
 nome: "Simone Rebaudengo"
 short_description: "Interaction designer"
-tags: designer
+tags:
+- designer
 ritratto: Simone-Rebaudengo-332x221.jpg
 ritratto_width: 332
 ritratto_height: 221
@@ -12,10 +13,8 @@ postazione: Simone-Rebaudengo2-332x249.jpg
 postazione_width: 332
 postazione_height: 249
 postazione_alt: "La scrivania di Simone Rebaudengo"
-sitemap.lastmod: 2014-02-16
+sitemap.lastmod: 2014-03-27
 ---
-
-
 ###Chi sei e di che cosa ti occupi?
 Mi chiamo [Simone Rebaudengo][1], ho 26 anni e sono Interaction designer presso [frog][2] nello studio di Monaco di Baviera, sviluppo storie che poi diventano servizi e interfacce digitali e non.
 

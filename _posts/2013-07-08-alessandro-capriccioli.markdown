@@ -4,14 +4,14 @@ date: 2013-07-08 01:00:00 Europe/Rome
 categories: intervista
 nome: "Alessandro Capriccioli"
 short_description: "Giornalista e blogger"
-tags: giornalista blogger
+tags:
+- giornalista
+- blogger
 ritratto: Alessandro-Capriccioli-332x332.jpg
 ritratto_width: 332
 ritratto_height: 332
-sitemap.lastmod: 2014-02-13
+sitemap.lastmod: 2014-03-27
 ---
-
-
 ###Chi sei e di che cosa ti occupi?
 Sono Alessandro Capriccioli, faccio il blogger su [Metilparaben][1] e [Libernazione][2], collaboro con varie testate giornalistiche, tra cui L'[Espresso][3] e sono un militante radicale.
 

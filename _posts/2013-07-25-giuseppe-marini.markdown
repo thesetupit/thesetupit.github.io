@@ -4,7 +4,8 @@ date: 2013-07-25 00:01:00 Europe/Rome
 categories: intervista
 nome: "Giuseppe Marini"
 short_description: "Sviluppatore per Era della Trasparenza"
-tags: sviluppatore
+tags:
+- programmatore
 ritratto: Giuseppe-Marini-332x357.jpg
 ritratto_width: 332
 ritratto_height: 357
@@ -12,10 +13,8 @@ postazione: Giuseppe-Marini2-332x268.jpg
 postazione_width: 332
 postazione_height: 268
 postazione_alt: "La scrivania di Giuseppe Marini"
-sitemap.lastmod: 2014-02-13
+sitemap.lastmod: 2014-03-27
 ---
-
-
 ###Chi sei e di che cosa ti occupi?
 Sono Giuseppe Marini, vivo a Roma con la mia famiglia e sviluppo software. Dopo una decennale esperienza con software cosiddetto commerciale in grandi aziende, oggi mi dedico con software libero all'analisi e sviluppo del progetto [Era della Trasparenza][1] della comunità che è [Agorà Digitale][2].
 

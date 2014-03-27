@@ -4,14 +4,13 @@ date: 2013-11-18 23:00:00 Europe/Rome
 categories: intervista
 nome: "Carola Frediani"
 short_description: "Giornalista. Cyber-security, Green Economy, Hacking."
-tags: giornalista
+tags:
+- giornalista
 ritratto: carola-frediani-332x442.jpg
 ritratto_width: 332
 ritratto_height: 442
-sitemap.lastmod: 2014-02-16
+sitemap.lastmod: 2014-03-27
 ---
-
-
 ###Chi sei e di che cosa ti occupi?
 Sono una giornalista, mi occupo soprattutto di tecnologia, internet, social media, cultura digitale, hacking. Insieme ad altri colleghi ho cofondato [Effecinque.org][f5], una agenzia giornalistica che lavora su temi, linguaggi e formati innovativi, dalle timeline interattive al data journalism, dalle inchieste ai video in motion graphic, dalle infografiche alla gestione di social media e liveblog. Di recente ho scritto [un ebook][1] su [Anonymous][anon].
 

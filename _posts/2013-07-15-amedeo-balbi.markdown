@@ -4,14 +4,14 @@ date: 2013-07-15 01:00:00 Europe/Rome
 categories: intervista
 nome: "Amedeo Balbi"
 short_description: "Astrofisico"
-tags: scrittore
+tags:
+- astrofisico
+- scrittore
 ritratto: Amedeo-Balbi-332x360.jpg
 ritratto_width: 332
 ritratto_height: 360
-sitemap.lastmod: 2014-02-19
+sitemap.lastmod: 2014-03-27
 ---
-
-
 ###Chi sei e di che cosa ti occupi?
 Sono un astrofisico. Insegno e faccio ricerca all'università di Roma Tor Vergata, e scrivo cose di scienza [in rete][1] e [su carta][2].
 
@@ -25,7 +25,7 @@ Per le cose di ricerca, uso soprattutto un ambiente di lavoro molto potente che 
 
 Per scrivere articoli tecnici, lo standard accademico è [LaTeX][LaTeX], che uso sul Mac con un pacchetto che si chiama [TexShop][TeXShop]. LaTeX è talmente potente e versatile che ci si può fare di tutto, quindi oltre che per i testi mi capita di usarlo anche nelle presentazioni che contengono molte formule. In genere però per lezioni e conferenze uso [Keynote][Keynote].
 
-Passando alla scrittura non tecnica: gli ultimi due libri li ho scritti con [Scrivener][Scrivener]. È molto utile per gestire progetti complessi. Per i pezzi più brevi in genere scrivo semplici file di testo, usando programmi che eliminino le distrazioni: su Mac uso [Writeroom][Writeroom], su iPad [iA Writer][iAWriter]. Sono perfetti per quello che mi serve. Cerco di limitare al minimo l'uso di [Word][MsWord], ma a volte è necessario per ragioni di compatibilità. Per sincronizzare file su cui sto lavorando su più dispositivi uso esclusivamente [Dropbox][Dropbox]. Per note, appunti veloci, liste, ecc, uso [Simplenote][Simplenote] e [Notational Velocity][NotationalVelocity]: funzionano molto bene è ho sempre tutto a portata di mano su qualunque dispositivo.
+Passando alla scrittura non tecnica: gli ultimi due libri li ho scritti con [Scrivener][scrivener]. È molto utile per gestire progetti complessi. Per i pezzi più brevi in genere scrivo semplici file di testo, usando programmi che eliminino le distrazioni: su Mac uso [Writeroom][Writeroom], su iPad [iA Writer][iAWriter]. Sono perfetti per quello che mi serve. Cerco di limitare al minimo l'uso di [Word][MsWord], ma a volte è necessario per ragioni di compatibilità. Per sincronizzare file su cui sto lavorando su più dispositivi uso esclusivamente [Dropbox][Dropbox]. Per note, appunti veloci, liste, ecc, uso [Simplenote][Simplenote] e [Notational Velocity][NotationalVelocity]: funzionano molto bene è ho sempre tutto a portata di mano su qualunque dispositivo.
 
 ###Come miglioreresti quello che usi per lavorare?
 Sono piuttosto soddisfatto con quello che ho. Come dicevo, non mi interessano i gadget ultra-dotati, e ho trovato negli anni un sistema che funziona bene per le mie esigenze. La cosa che mi servirebbe davvero sarebbe uno strumento che dilati il tempo, che è sempre troppo poco per le cose da fare.
@@ -37,7 +37,7 @@ Sono piuttosto soddisfatto con quello che ho. Come dicevo, non mi interessano i 
 [LaTeX]: http://www.latex-project.org/ "LaTeX: A document preparation system"
 [TeXShop]: http://pages.uoregon.edu/koch/texshop/ "TeXShop is a TeX previewer for Mac OS X"
 [Keynote]: https://www.apple.com/it/mac/keynote/‎ "Apple Keynote"
-[Scrivener]: http://literatureandlatte.com/scrivener.php "Scrivener: The biggest software advance for writers since the word processor"
+[scrivener]: http://literatureandlatte.com/scrivener.php "Scrivener: The biggest software advance for writers since the word processor"
 [Writeroom]: http://www.hogbaysoftware.com/products/writeroom "Writeroom: distraction free writing"
 [iAWriter]: http://www.iawriter.com "iA Writer: Keep your hands on the keyboard and your mind in the text."
 [MsWord]: http://office.microsoft.com/it-it/word/ "Microsoft Word"

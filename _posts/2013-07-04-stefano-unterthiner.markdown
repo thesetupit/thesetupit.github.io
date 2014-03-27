@@ -4,14 +4,13 @@ date: 2013-07-04 12:30:00 Europe/Rome
 categories: intervista
 nome: "Stefano Unterthiner"
 short_description: "Fotografo per National Geographic"
-tags: fotografo
+tags:
+- fotografo
 ritratto: Stefano-Unterthiner-332x205.jpg
 ritratto_width: 332
 ritratto_height: 205
-sitemap.lastmod: 2014-02-13
+sitemap.lastmod: 2014-03-27
 ---
-
-
 ###Chi sei e di che cosa ti occupi?
 [Stefano Unterthiner][1], fotografo naturalista. Con la mia fotografia racconto la vita degli animali selvatici, sempre con un'attenzione particolare alle tematiche di conservazione e al rapporto uomo-natura.
 

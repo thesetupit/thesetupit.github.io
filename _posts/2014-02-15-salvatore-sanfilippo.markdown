@@ -4,7 +4,8 @@ date: 2014-02-15 10:32:43 Europe/Rome
 categories: intervista
 nome: "Salvatore Sanfilippo"
 short_description: "Programmatore, creatore di Redis"
-tags: programmatore
+tags:
+- programmatore
 ritratto: salvatore-sanfilippo-332x222.jpg
 ritratto_width: 332
 ritratto_height: 222
@@ -12,10 +13,8 @@ postazione: salvatore-sanfilippo2-332x249.jpg
 postazione_width: 332
 postazione_height: 249
 postazione_alt: "La scrivania di Salvatore Sanfilippo"
-sitemap.lastmod: 2014-02-16
+sitemap.lastmod: 2014-03-27
 ---
-
-
 ###Chi sei e di che cosa ti occupi?
 Mi chiamo Salvatore Sanfilippo, sono siciliano, ho 36 anni, due figli e una moglie. Scrivo software, prevalentemente [open source][1], da circa 20 anni. Nel 1998 ho inventato un attacco al protocollo di internet TCP/IP chiamato [Idle Scan][idlescan] e il tool di sicurezza informatica [hping][hping]. Nel 2005 ho fondato una startup assieme a Fabio Pitrola in seno alla quale abbiamo sviluppato i primi siti web "social" in Italia. Nel 2008 ho fondato una startup focalizzata sullo sviluppo di applicazioni mobile che ha realizzato diversi progetti nel campo della editoria elettronica, poi assorbita dalla più grande azienda di editoria elettronica in Italia. Da cinque anni sviluppo un database open source chiamato [Redis][redis], che è utilizzato da Twitter, Pinterest, Youporn, e molti altri siti web ad alto traffico per servire più velocemente i loro contenuti agli utenti. Oggi lavoro per Pivotal, società americana che sta sponsorizzando il progetto Redis, che rimane comunque open source in tutte le sue parti. Redis è attualmente uno dei software più popolari nello stack tecnologico delle startup grandi e piccole sia in occidente che in Cina. Attualmente i miei sforzi sono focalizzati nella creazione di un sistema chiamato *[Redis Cluster][rediscluster]* che altro non è che una implementazione di Redis che opera come un "sistema distribuito". In parole polvere il database viene eseguito su tanti computer simultaneamente, dando però alla applicazione l'impressione di essere un oggetto unico. La prima versione "beta" di Redis Cluster è stata rilasciata qualche giorno addietro.
 

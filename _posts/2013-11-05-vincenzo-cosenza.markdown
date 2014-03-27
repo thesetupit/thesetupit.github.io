@@ -4,14 +4,13 @@ date: 2013-11-05 19:00:00 Europe/Rome
 categories: intervista
 nome: "Vincenzo Cosenza"
 short_description: "Social media strategist"
-tags: "social media strategist"
+tags:
+- social media strategist
 ritratto: Vincenzo-Cosenza-332x332.jpg
 ritratto_width: 332
 ritratto_height: 332
-sitemap.lastmod: 2014-02-16
+sitemap.lastmod: 2014-03-27
 ---
-
-
 ###Chi sei e di che cosa ti occupi?
 Stategist in [Blogmeter][blogmeter]. Osservo l'evoluzione della rete e del rapporto tra persone e brand online. Ne scrivo principalmente su [vincos.it][blog] e a volte sistematizzo i pensieri su carta (ho scritto *[Social Media ROI][1]* e *[La società dei dati][2]*).
 

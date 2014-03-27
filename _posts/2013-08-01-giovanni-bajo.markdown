@@ -4,14 +4,14 @@ date: 2013-08-01 00:01:00 Europe/Rome
 categories: intervista
 nome: "Giovanni Bajo"
 short_description: "CEO Develer"
-tags: sviluppatore
+tags:
+- imprenditore
+- programmatore
 ritratto: Giovanni-Bajo-332x439.jpg
 ritratto_width: 332
 ritratto_height: 439
-sitemap.lastmod: 2014-02-13
+sitemap.lastmod: 2014-03-27
 ---
-
-
 ###Chi sei e di che cosa ti occupi?
 Mi chiamo [Giovanni Bajo][1] e sono un programmatore.
 
@@ -63,31 +63,31 @@ Purtroppo, ad oggi devo scendere ancora a compromessi, perché sicuramente il Ma
 [6]: http://www.betterembedded.it "Better embedded"
 [7]: http://www.greenapes.com "greenApes: You are not alone in the jungle."
 [8]: http://www.daskeyboard.com "Das Keyboard: Mechanical keyboard."
-[ubuntu]: http://www.ubuntu.com "Ubuntu: The world's most popular free OS."
-[python]: http://www.python.org "Python programming language"
-[pycharm]: http://www.jetbrains.com/pycharm/ "PyCharm: Powerful Python and Django IDE."
-[st]: http://www.sublimetext.com/ "Sublime Text is a sophisticated text editor for code, markup and prose."
+[aerofs]: https://aerofs.com "AeroFS: Private file sync & share, made easy."
+[Dropbox]: http://dropbox.com/ "Dropbox: I tuoi file sempre con te."
+[fish]: http://fishshell.com "Fish shell: Finally, a command line shell for the 90s."
+[gdrive]: https://drive.google.com "Google Drive"
 [git]: http://git-scm.com "git: --distributed-even-if-your-workflow-isnt"
 [github]: https://github.com "GitHub: Powerful collaboration, code review, and code management for open source and private projects."
-[Dropbox]: http://dropbox.com/ "Dropbox: I tuoi file sempre con te."
-[aerofs]: https://aerofs.com "AeroFS: Private file sync & share, made easy."
-[fish]: http://fishshell.com "Fish shell: Finally, a command line shell for the 90s."
-[homebrew]: http://brew.sh "Homebrew: The missing package manager for OS X."
-[virtualbox]: https://www.virtualbox.org
-[parallels]: http://www.parallels.com "Parallels: Soluzioni per automazione e virtualizzazione."
-[virtualenv]: https://pypi.python.org/pypi/virtualenv "virtualenv: Virtual Python Environment builder."
-[trello]: https://trello.com "Trello: Organize anything, together."
-[lastpass]: https://lastpass.com "LastPass: the last pass you'll have to remember."
-[highrise]: http://highrisehq.com
-[gdrive]: https://drive.google.com "Google Drive"
-[justnotes]: http://selfcoded.com/justnotes "JustNotes: A simple, beautiful and powerful notes app for OS X."
-[simplenote]: http://simplenote.com "Simplenote: The simplest way to keep notes."
-[mailbox]: http://www.mailboxapp.com "Mailbox app: Put email in its place."
-[inboxzero]: http://www.slideshare.net/merlinmann/inbox-zero-actionbased-email "Slideshare: Inbox Zero, action based email."
 [heroku]: https://www.heroku.com "Heroku: Deliver apps, the right way."
-[s3]: http://aws.amazon.com/s3/ "Amazon S3: Cloud computing storage."
 [herokupostgres]: https://postgres.heroku.com "HerokuPostgres: Postgres as a Service on AWS."
+[highrise]: http://highrisehq.com
+[hipchat]: https://www.hipchat.com "HipChat: Group chat and IM built for teams."
+[homebrew]: http://brew.sh "Homebrew: The missing package manager for OS X."
+[inboxzero]: http://www.slideshare.net/merlinmann/inbox-zero-actionbased-email "Slideshare: Inbox Zero, action based email."
+[justnotes]: http://selfcoded.com/justnotes "JustNotes: A simple, beautiful and powerful notes app for OS X."
+[lastpass]: https://lastpass.com "LastPass: the last pass you'll have to remember."
+[mailbox]: http://www.mailboxapp.com "Mailbox app: Put email in its place."
+[newrelic]: http://newrelic.com "New Relic: A Developer’s Best Friend."
+[parallels]: http://www.parallels.com "Parallels: Soluzioni per automazione e virtualizzazione."
+[pycharm]: http://www.jetbrains.com/pycharm/ "PyCharm: Powerful Python and Django IDE."
+[python]: http://www.python.org "Python programming language"
 [redis]: http://redis.io "Redis is an open source, BSD licensed, advanced key-value store."
 [rediscloud]: http://redis-cloud.com "Redis Cloud: Enterprise-Class Redis Hosting for Developers."
-[newrelic]: http://newrelic.com "New Relic: A Developer’s Best Friend."
-[hipchat]: https://www.hipchat.com "HipChat: Group chat and IM built for teams."
+[s3]: http://aws.amazon.com/s3/ "Amazon S3: Cloud computing storage."
+[simplenote]: http://simplenote.com "Simplenote: The simplest way to keep notes."
+[st]: http://www.sublimetext.com/ "Sublime Text is a sophisticated text editor for code, markup and prose."
+[trello]: https://trello.com "Trello: Organize anything, together."
+[ubuntu]: http://www.ubuntu.com "Ubuntu: The world's most popular free OS."
+[virtualbox]: https://www.virtualbox.org
+[virtualenv]: https://pypi.python.org/pypi/virtualenv "virtualenv: Virtual Python Environment builder."

@@ -4,14 +4,13 @@ date: 2013-12-11 22:00:00 Europe/Rome
 categories: intervista
 nome: "Francesco Majo"
 short_description: "Fotografo del cibo"
-tags: fotografo
+tags:
+- fotografo
 ritratto: francesco-majo-332x332.jpg
 ritratto_width: 332
 ritratto_height: 332
-sitemap.lastmod: 2014-02-16
+sitemap.lastmod: 2014-03-27
 ---
-
-
 ###Chi sei e di che cosa ti occupi?
 Mi chiamo [Francesco Majo][web], sono nato a Gorizia nel 1967, e di professione faccio il fotografo, specializzato in food, lifestyle e viaggi.
 

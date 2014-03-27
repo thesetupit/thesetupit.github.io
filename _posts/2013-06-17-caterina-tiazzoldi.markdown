@@ -4,7 +4,9 @@ date: 2013-06-17 01:00:00 Europe/Rome
 categories: intervista
 nome: "Caterina Tiazzoldi"
 short_description: "Architetto e inventore"
-tags: architetto designer
+tags:
+- architetto
+- designer
 ritratto: caterina-tiazzoldi-332x403.jpg
 ritratto_width: 332
 ritratto_height: 403
@@ -13,10 +15,8 @@ postazione_width: 332
 postazione_height: 221
 postazione_credit: "Il ritratto è ®Anastasios Mentis<br />L'immagine di <em>Toolbox Torino office lab & coworking</em> è ®Davide Giglio"
 postazione_alt: "Toolbox Torino office lab & coworking"
-sitemap.lastmod: 2014-02-13
+sitemap.lastmod: 2014-03-27
 ---
-
-
 ###Chi sei e di che cosa ti occupi?
 Sono architetto e inventore.
 

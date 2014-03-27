@@ -4,7 +4,9 @@ date: 2013-07-01 01:00:00 Europe/Rome
 categories: intervista
 nome: "Lorenzo e Luciano Cantini"
 short_description: "Startupper e maker fiorentini"
-tags: imprenditore
+tags:
+- imprenditore
+- maker
 ritratto: Kentstrapper-332x172.jpg
 ritratto_width: 332
 ritratto_height: 172
@@ -12,10 +14,8 @@ postazione: Kentstrapper2-332x221.jpg
 postazione_width: 332
 postazione_height: 221
 postazione_alt: "La stampante 3D di Kentstrapper"
-sitemap.lastmod: 2014-02-13
+sitemap.lastmod: 2014-03-27
 ---
-
-
 ###Chi siete e di che cosa vi occupate?
 Noi siamo una startup fiorentina a carattere familiare: abbiamo coinvolto babbo, zio, cugini e perfino nostro nonno, più qualche collaboratore esterno. [Kentstrapper][1] è nata da pochi anni e si occupa di progettazione, sviluppo e vendita di stampanti 3D [opensource][2] a basso costo.
 
