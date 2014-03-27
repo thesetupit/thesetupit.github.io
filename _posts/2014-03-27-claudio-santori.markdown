@@ -24,7 +24,7 @@ Bliu Bliu è un motore di ricerca, simile a Google, solo che ricerca contenuti n
 - Timer da cucina, per lavorare in blocchi da 50 minuti senza interruzioni
 - [iPhone4][iphone], senza SIM, utilizzabile solo in zone WIFI
 - [Mac][mac]
-- [Kinde][kindle], per leggere tutti i blog senza passare tutto il giorno davanti al computer
+- [Kindle][kindle], per leggere tutti i blog senza passare tutto il giorno davanti al computer
 - Cuffie, che uso anche senza musica
 - Tappi per le orecchie
 - Vecchio telefono cellulare Nokia
