@@ -33,7 +33,7 @@ Mi piacerebbe che esistesse un Macbook Air con lo schermo retina per avere una d
 [hping]: http://en.wikipedia.org/wiki/Hping "Wikipedia: Hping"
 [redis]: http://redis.io "Redis is an open source, BSD licensed, advanced key-value store."
 [rediscluster]: http://redis.io/topics/cluster-tutorial "Redis Cluster provides a way to run a Redis installation where data is automatically sharded across multiple Redis nodes."
-[mba]: http://www.apple.com/it/macbook-air/‎ "Apple MacBook Air"
+[mba]: http://www.apple.com/it/macbook-air/ "Apple MacBook Air"
 [gnulinux]: https://www.gnu.org/gnu/linux-and-gnu.it.html "Linux e il sistema GNU, di Richard Stallman."
 [android]: http://www.android.com/
 [iphone]: https://www.apple.com/it/iphone/
