@@ -4,7 +4,7 @@ markdown: redcarpet
 pygments: true
 permalink: /:title/
 timezone: Europe/Rome
-baseurl: http://www.thesetup.it
+baseurl: http://thesetup.it
 exclude:
 - README.md
 - CNAME
