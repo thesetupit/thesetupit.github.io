@@ -1,2 +1,2 @@
 #thesetupit.guthub.io
-This is the GitHub repo for Pages hosting on www.thesetup.it
+This is the GitHub repo for Pages hosting on [thesetup.it](http://thesetup.it)
