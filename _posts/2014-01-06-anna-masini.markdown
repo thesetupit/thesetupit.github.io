@@ -9,9 +9,9 @@ tags:
 ritratto: Ninamasina-332x332.jpg
 ritratto_width: 332
 ritratto_height: 332
-postazione: ninamasina2-332x332.jpg
+postazione: ninamasina3-332x332.jpg
 postazione_width: 332
-postazione_height: 249
+postazione_height: 332
 postazione_alt: "La scrivania di Ninamasina"
 sitemap.lastmod: 2014-09-10
 ---
