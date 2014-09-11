@@ -40,6 +40,6 @@ Forse dovrei imparare meglio io a usare gli strumenti che ho già!
 [web]: http://www.ninamasina.it "Sito web di Ninamasina"
 [d7000]: http://www.kenrockwell.com/nikon/d7000.htm "KenRockwell.com: Nikon D7000"
 [yashica]: http://www.kenrockwell.com/yashica/electro-35.htm "KenRockwell.com: Yashica Electro 35"
-[ps]: http://www.adobe.com/it/products/photoshop.html‎ "Adobe Photoshop"
-[in]: http://www.adobe.com/it/products/indesign.html‎ "Adobe InDesign"
+[ps]: http://www.adobe.com/it/products/photoshop "Adobe Photoshop"
+[in]: http://www.adobe.com/it/products/indesign "Adobe InDesign"
 [lr]: http://www.adobe.com/it/products/photoshop-lightroom.html "Adobe Photoshop Lightroom"
