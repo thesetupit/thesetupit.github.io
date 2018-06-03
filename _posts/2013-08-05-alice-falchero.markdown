@@ -16,13 +16,13 @@ postazione_alt: "La scrivania di Alice Falchero"
 postazione_credit: "Il ritratto è ®Fabio Conti"
 sitemap.lastmod: 2014-03-27
 ---
-###Chi sei e di che cosa ti occupi?
+### Chi sei e di che cosa ti occupi?
 Sono Alice, "quella che risponde alle domande per [Ecco Verde][1]". Lavoro in Austria come country manager Italy per NiceShops, e-commerce che gestisce diversi siti, tre dei quali tradotti in italiano. Chi li conosce mi associa alla persona che risponde alle mail, dà consigli e scherza su facebook: questa è però solo una piccola parte del mio lavoro, forse la più divertente ma non l’unica – non si direbbe ma sono una persona seria! – Sono responsabile della traduzione dei siti in lingua italiana, della pubblicità e dei contatti con l’Italia: gestione dei fornitori e servizio clienti (e quindi gestione mail e amministrazione delle pagine Facebook). Inoltre aiuto nella coordinazione e gestione degli altri traduttori e svolgo supervisione per i colleghi del servizio clienti Italia. Ogni tanto, quando serve, cerco di dare una mano azzardandomi a mandare mail e a gestire clienti e fornitori di lingua spagnola, francese e inglese, ma meglio non esagerare. Sono anche interprete durante le riunioni internazionali.
 
-###Quali strumenti usi per il tuo lavoro?
+### Quali strumenti usi per il tuo lavoro?
 Computer (due schermi – essenziale!!), telefono, macchina foto, macchina per caffè e bollitore per il the.
 
-###Quale software?
+### Quale software?
 Programmi di backend per la gestione dei siti – sono stati creati interamente dal nostro programmatore – sono essenzialmente il "dietro alle quinte" di ogni shop. Da qui si può gestire tutto: account clienti, ordini, fornitori, prodotti, prezzi, newsletter... insomma... tutto quello che si vede sul sito tradizionale e ogni movimento di esso sono racchiusi qui.
 
 Skype (senza non si lavora! Comunico quotidianamente con i colleghi seduti negli altri uffici e qualche volta con i fornitori italiani)
@@ -39,7 +39,7 @@ Excel per l’inserimento di nuovi prodotti nel listino, gestione dei prezzi e a
 
 Photoshop (ma poco! Meglio lasciar fare al grafico...)
 
-###Come miglioreresti quello che usi per lavorare?
+### Come miglioreresti quello che usi per lavorare?
 Essenzialmente sono contenta così. Probabilmente sarei felice se avessi la possibilità di rispondere alle mail direttamente dallo smartphone con la stessa comodità che ho con la tastiera del pc (odio scrivere sul touch screen) – penso che il desk.agent abbia la possibilità di essere usato sul cellulare ma sinceramente non mi sono ancora informata perché per ora sono riuscita a gestirmi senza averne bisogno. Forse sarebbe comoda una minitastiera da attaccare direttamente al telefono.
 
 Mi piacerebbe avere una connessione internet mondiale illimitata, così da poter comunicare con i colleghi e i clienti da qualsiasi parte del mondo in cui mi trovi e risolvere i problemi che immancabilmente si materializzano quando sono in vacanza.

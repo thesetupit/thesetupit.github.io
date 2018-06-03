@@ -12,13 +12,13 @@ ritratto_width: 332
 ritratto_height: 360
 sitemap.lastmod: 2014-03-27
 ---
-###Chi sei e di che cosa ti occupi?
+### Chi sei e di che cosa ti occupi?
 Sono un astrofisico. Insegno e faccio ricerca all'università di Roma Tor Vergata, e scrivo cose di scienza [in rete][1] e [su carta][2].
 
-###Quali strumenti usi per il tuo lavoro?
+### Quali strumenti usi per il tuo lavoro?
 Il mio strumento di lavoro principale è un MacBook Pro da 15". Uso molto anche un iPad 2, e ovviamente il mio iPhone, quando sono in giro. In ufficio all'università ho un vecchio iMac. I calcoli più pesanti vengono fatti su macchine condivise, dedicate allo scopo.
 
-###Quale software?
+### Quale software?
 In generale sono un patito del minimalismo, quindi cerco di limitarmi a pochi strumenti che facciano poche cose ma molto bene.
 
 Per le cose di ricerca, uso soprattutto un ambiente di lavoro molto potente che si chiama [IDL][idl] e che permette di elaborare immagini e fare un po' di calcolo numerico. Se c'è da fare calcolo più avanzato scrivo programmi [FORTRAN][3] o uso pacchetti appositi.
@@ -27,7 +27,7 @@ Per scrivere articoli tecnici, lo standard accademico è [LaTeX][LaTeX], che uso
 
 Passando alla scrittura non tecnica: gli ultimi due libri li ho scritti con [Scrivener][scrivener]. È molto utile per gestire progetti complessi. Per i pezzi più brevi in genere scrivo semplici file di testo, usando programmi che eliminino le distrazioni: su Mac uso [Writeroom][Writeroom], su iPad [iA Writer][iAWriter]. Sono perfetti per quello che mi serve. Cerco di limitare al minimo l'uso di [Word][MsWord], ma a volte è necessario per ragioni di compatibilità. Per sincronizzare file su cui sto lavorando su più dispositivi uso esclusivamente [Dropbox][Dropbox]. Per note, appunti veloci, liste, ecc, uso [Simplenote][Simplenote] e [Notational Velocity][NotationalVelocity]: funzionano molto bene è ho sempre tutto a portata di mano su qualunque dispositivo.
 
-###Come miglioreresti quello che usi per lavorare?
+### Come miglioreresti quello che usi per lavorare?
 Sono piuttosto soddisfatto con quello che ho. Come dicevo, non mi interessano i gadget ultra-dotati, e ho trovato negli anni un sistema che funziona bene per le mie esigenze. La cosa che mi servirebbe davvero sarebbe uno strumento che dilati il tempo, che è sempre troppo poco per le cose da fare.
 
 

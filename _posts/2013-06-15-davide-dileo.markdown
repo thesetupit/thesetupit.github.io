@@ -11,16 +11,16 @@ ritratto_width: 332
 ritratto_height: 326
 sitemap.lastmod: 2014-03-27
 ---
-###Chi sei e di che cosa ti occupi?
+### Chi sei e di che cosa ti occupi?
 [Musicista][1], in mezzo ad altre cose e [mi affanno a raccontarle][2].
 
-###Quali strumenti usi per il tuo lavoro?
+### Quali strumenti usi per il tuo lavoro?
 Tutti gli strumenti classici, dal piano alla chitarra al basso ed alla batteria più qualche diavoleria elettronica che emetta suoni convincenti.
 
-###Quale software?
+### Quale software?
 Cubase e Logic su tutti.
 
-###Come miglioreresti quello che usi per lavorare?
+### Come miglioreresti quello che usi per lavorare?
 Standardizzando ShortKeys. Significherebbe mantenere gli stessi automatismi permettendoti di esplorare piattaforme nuove senza inciamparci dentro.
 
 

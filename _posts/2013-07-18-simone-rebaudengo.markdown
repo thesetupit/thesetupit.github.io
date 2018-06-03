@@ -15,7 +15,7 @@ postazione_height: 249
 postazione_alt: "La scrivania di Simone Rebaudengo"
 sitemap.lastmod: 2014-03-27
 ---
-###Chi sei e di che cosa ti occupi?
+### Chi sei e di che cosa ti occupi?
 Mi chiamo [Simone Rebaudengo][1], ho 26 anni e sono Interaction designer presso [frog][2] nello studio di Monaco di Baviera, sviluppo storie che poi diventano servizi e interfacce digitali e non.
 
 Sono un emigrante per piacere, passione e lavoro. Ho studiato e lavorato in Svezia, Olanda e Inghilterra e ora in Germania esplorarando diversi lati dell'interattività, dall'architettura generativa alle interfacce tangibili.
@@ -24,7 +24,7 @@ Mi interessano le relazioni che instauriamo con i prodotti e gli spazi che ci ci
 
 Nel 2011 ho collaborato con [Usman Haque][haque] e Cosm, la prima piattaforma per l'[Internet of Things][3], con il progetto [Addicted Products][4], provando anche a installare un "tostapane con una dipendenza" nell'ufficio del primo ministro inglese e da allora vado in giro a parlarne in posti come TEDx e UX London.
 
-###Quali strumenti usi per il tuo lavoro?
+### Quali strumenti usi per il tuo lavoro?
 Non avendo dimora fissa negli ultimi 5 anni, tendo a possedere poco o oggetti che siano trasportabili.
 Gli unici oggetti che sono con me da sempre sono una MayDay lamp di Gricic e la Dumbo mug di Hutten, ma non so per quale motivo particolare.
 Ho un Macbook Air per scrivere con un caffé di fianco e Un Macbook pro per le cose serie e a lavoro.
@@ -35,12 +35,12 @@ Spotify, RadioLab e le mie cuffie Koss portaPro aiutano ad avere la giusta dose 
 
 A seconda del progetto uso diversi strumenti, ma il focus primario è definire l'esperienza attraverso storie o modelli logici e poi esplorarla attraverso prototipi veloci, più o meno grezzi per evolvere l'idea anche grazie agli errori e alle limitazioni degli strumenti stessi. Piattaforme come [Processing][Processing] e Arduino hanno cambiato il mio processo decisamente, dandomi la possibilità di pensare e mettere in pratica le idee in contemporanea. Ho una serie di oggetti che girano per casa, da tostapani a sedie per massaggi, che torturo testando nuove idee e possibilità. Altrimenti, quando necessario, mi diletto con un po' di laser cutter e 3d milling per crearne di nuovi in qualche FabLab.
 
-###Quale software?
+### Quale software?
 Scrivo molto e uso [iA Writer][iAWriter], perché mi permette di avere uno spazio bianco e pulito da dove iniziare e in qualche modo mi ricorda una vecchia macchina da scrivere. Altrimenti uso spesso [MindNode][MindNode] per creare mappe mentali in situazioni molto confuse. Quando ho idee più chiare, ho una fissazione per creare modelli e infographics in [Illustrator][Illustrator] per spiegare processi e servizi.
 
 [Keynote][Keynote] e [After effects][AfterEffects] sono sempre utili per testare transizioni, ma da un paio di anni preferisco programmare direttamente. Processing è stato un enorme passo avanti per poter mettere in pratica molte delle idee ed esplorazioni che faccio, ma mi piace anche lavorare con [MaxMsp][MaxMsp]. Ultimamente mi sono inoltrato in [Javascript][6] e [PaperJS][paperJS] per lavorare direttamente nei browser e avendo scoperto [Sublime Text][st], da allora non ne posso fare a meno.
 
-###Come miglioreresti quello che usi per lavorare?
+### Come miglioreresti quello che usi per lavorare?
 Il mio sogno è un enorme tavolo di legno grezzo nel mezzo di laboratorio pieno di strumenti e materiali e dove carta, martelli, chiodi, sensori, una laser cutter, un impianto [bose][7] con [AirPlay][AirPlay] e una macchina del caffé con una leva enorme convivono per poter fare e pensare allo stesso tempo.
 
 

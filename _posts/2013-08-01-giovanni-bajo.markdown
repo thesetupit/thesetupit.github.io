@@ -12,7 +12,7 @@ ritratto_width: 332
 ritratto_height: 439
 sitemap.lastmod: 2014-03-27
 ---
-###Chi sei e di che cosa ti occupi?
+### Chi sei e di che cosa ti occupi?
 Mi chiamo [Giovanni Bajo][1] e sono un programmatore.
 
 Ho diverse attività che cerco di portare avanti in parallelo per quanto possibile. La principale è indubbiamente il lavoro che svolgo per la mia società, [Develer][2], che offre servizi di sviluppo software e progettazione elettronica ad importanti nomi dell’industria italiana. Assieme al mio socio Simone Zinanni e ad un team fantastico di 25 giovani professionisti di altimissimo livello, svolgiamo il nostro lavoro con passione, cercando sempre di scoprire, proporre ed utilizzare le tecnologie più innovative per i nostri clienti, con un occhio di riguardo al mondo del software libero.
@@ -21,14 +21,14 @@ Tramite Develer, ho partecipato in prima persona all’organizzazione di numeros
 
 Di recente, grazie a Develer, sono stato coinvolto in un progetto fantastico: una startup chiamata [greenApes][7], che si propone di realizzare una community dove sia possibile costruire e condividere il proprio profilo green (ecosostenibile) tramite la condivisione di azioni quotidiane, che siano anche di ispirazione per gli altri; l’intero sistema è stato vagliato e validato dai più importanti istituti di ricerca e università europee, specializzati in questa tematica. Al momento, è disponibile la nostra prima app per iPhone, che sta riscuotendo un ottimo riscontro di pubblico e critica.
 
-###Quali strumenti usi per il tuo lavoro?
+### Quali strumenti usi per il tuo lavoro?
 Al momento, la mia postazione di lavoro è un MacBook Air 11" 2011, con 4Gb di RAM e 128Gb di SSD, che è stato contemporaneamente il mio primo laptop e il mio primo Mac, dopo 6 anni di utilizzo esclusivo di Linux ([Ubuntu][ubuntu]). Ho scelto il modello 11" per l’ultraportabilità, per me condizione essenziale che fino a quel giorno mi aveva relegato al ruolo di scettico nell’uso dei laptop per la mia professione.
 
 A lavoro, se non sono a giro a far perdere tempo a qualcuno, tengo collegato il MacBook ad un Thunderbolt Display 27", ed utilizzo la mia fida [Das Keyboard II][8] (con i tasti rigorosamente blind, e in versione “clicky” cioè rumorosa), e un Magic Trackpad.
 
 Come smartphone utilizzo un iPhone 4S, che utilizzo in modo abbastanza “massiccio” con un set di circa 20 diverse applicazioni che utilizzo almeno una volta al giorno (sì, le ho contate!), e un’altra ventina che utilizzo settimanalmente. Sono tornato al mondo iPhone (prima ho avuto un 3GS) dopo una breve parentesi con Android con un Samsung Galaxy S2, con l’ormai vetusto Android 2.3, del quale sono stato un felice possessore ma di cui non mi ha soddisfatto l’ecosistema di applicazioni e la generale mancanza di attenzione ai dettagli nel software. Sono comunque un attento e affascinato osservatore sia del mondo iOS sia del mondo Android, e passo diverse ore alla settimana a studiare e informarmi sui progressi di entrambi gli ecosistemi.
 
-###Quale software?
+### Quale software?
 Programmo principalmente in [Python][python] e C++, utilizzando [PyCharm][pycharm] e [Sublime Text][st] come editor/IDE. Utilizzo [git][git] come SCM, e [github][github] come code hosting / issue tracker / wiki, sia per i repositori pubblici che per quelli privati.
 
 [Dropbox][Dropbox] è utilizzato invece per condividere file con i team di sviluppo, e, sebbene l’alta affidabilità, non sono del tutto soddisfatto a causa della lentezza di rete (nonostante l’ampia banda Internet a disposizione in ufficio), per cui stiamo iniziando a valutare soluzioni più efficienti per un uso più massivamente LAN-based, come [AeroFS][aerofs].
@@ -49,7 +49,7 @@ Come dimenticare le e-mail, che rappresentano una parte importantissima del mio 
 
 Per quanto riguarda invece il lavoro sul progetto greenApes, utilizziamo [Heroku][heroku] per il deploy del backend, [AWS S3][s3] per il data storage, [Postgres][herokupostgres] (sempre su Heroku) come database primario, [Redis][redis] (clusterizzato sull’ottimo e innovativo [Redis Cloud][rediscloud]) come cache e storage transiente, [New Relic][newrelic] per il monitoring e l’ottimizzazione, [HipChat][hipchat] come strumento di comunicazione, più diversi servizi minori.
 
-###Come miglioreresti gli strumenti che usi?
+### Come miglioreresti gli strumenti che usi?
 In generale, mi trovo molto bene con l’ultramobilità, quindi con laptop e smartphone che mi consentono di lavorare ovunque sia, essendo operativo in pochi secondi.
 
 Purtroppo, ad oggi devo scendere ancora a compromessi, perché sicuramente il MacBook Air che uso non è potente quanto un sistema desktop. Conto però di fare un upgrade a breve: sono in attesa che esca un modello di MacBook Pro con Retina Display che monti il nuovo chipset Haswell a basso consumo, sperando che si confermino le 12 ore di batteria riscontrate nei nuovi modelli Air 2013. Conto di prendere in ogni caso un modello con processore Intel i7, 8Gb di RAM e 256Gb di SSD.

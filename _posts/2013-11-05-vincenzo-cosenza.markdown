@@ -11,20 +11,20 @@ ritratto_width: 332
 ritratto_height: 332
 sitemap.lastmod: 2014-03-27
 ---
-###Chi sei e di che cosa ti occupi?
+### Chi sei e di che cosa ti occupi?
 Stategist in [Blogmeter][blogmeter]. Osservo l'evoluzione della rete e del rapporto tra persone e brand online. Ne scrivo principalmente su [vincos.it][blog] e a volte sistematizzo i pensieri su carta (ho scritto *[Social Media ROI][1]* e *[La società dei dati][2]*).
 
-###Quali strumenti usi per il tuo lavoro?
+### Quali strumenti usi per il tuo lavoro?
 Essenzialmente un portatile Windows, un [iPad][ipad] e un [Nexus 4][n4].
 
-###Quale software?
+### Quale software?
 I pacchetti di produttività più comuni, ma anche i software per le analisi delle reti sociali e la visualizzazione di dati ([NodeXL][nodeXL], [Gephi][gephi], [CartoDB][cartodb], ecc...).
 
 Inoltre ogni giorno uso tutti i tool di Blogmeter: Social Listening per capire le conversazioni in rete, Social Analytics per rilevare le interazioni su Facebook e Twitter, SocialTVmeter per analizzare l'impatto delle trasmissioni televisive sui social media.
 
 Siccome mi piace fotografare uso anche [Adobe Lightroom][lr] come camera oscura digitale.
 
-###Come miglioreresti gli strumenti che usi?
+### Come miglioreresti gli strumenti che usi?
 Mi piacerebbe fossero sempre più utilizzabili efficacemente da dispositivo mobile.
 
 

@@ -11,16 +11,16 @@ ritratto_width: 332
 ritratto_height: 442
 sitemap.lastmod: 2014-03-27
 ---
-###Chi sei e di che cosa ti occupi?
+### Chi sei e di che cosa ti occupi?
 Sono una giornalista, mi occupo soprattutto di tecnologia, internet, social media, cultura digitale, hacking. Insieme ad altri colleghi ho cofondato [Effecinque.org][f5], una agenzia giornalistica che lavora su temi, linguaggi e formati innovativi, dalle timeline interattive al data journalism, dalle inchieste ai video in motion graphic, dalle infografiche alla gestione di social media e liveblog. Di recente ho scritto [un ebook][1] su [Anonymous][anon].
 
-###Quali strumenti usi per il tuo lavoro?
+### Quali strumenti usi per il tuo lavoro?
 Più di un computer e di un sistema operativo, ma soprattutto la necessità di avere una connessione e una tastiera sempre con me. Il tablet per leggere i giornali, scaricare al volo libri e provare un po' di app interessanti.
 
-###Quale software?
+### Quale software?
 Uso e provo tanti software e protocolli diversi che hanno a che fare con la comunicazione, la chat e la messaggistica. Da [Pidgin][pidgin] a [Jabber][jabber], da [Cryptocat][cryptocat] a [Skype][skype], da [XChat][xchat] ad [Adium][adium]. Naturalmente non tutti sono sicuri allo stesso modo, ma questo è un altro discorso. Poi ovviamente uso [Tor][tor], il software per la [navigazione anonima][2], necessario anche solo per raggiungere certi posti della Rete.
 
-###Come miglioreresti quello che usi per lavorare?
+### Come miglioreresti quello che usi per lavorare?
 Mi piacerebbe uno strumento che rendesse facile, intuitiva ed efficace l'organizzazione del workflow quotidiano e settimanale. Specie quando alcuni lavori non hanno scadenze precise e si protraggono o rimandano facilmente; oppure sono composti da tante indicazioni diverse, modifiche, aggiustamenti: insomma qualcosa che aiuti a tenere traccia di tutto. Finora non ho trovato nulla di soddisfacente.
 
 

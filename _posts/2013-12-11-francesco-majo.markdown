@@ -11,7 +11,7 @@ ritratto_width: 332
 ritratto_height: 332
 sitemap.lastmod: 2014-03-27
 ---
-###Chi sei e di che cosa ti occupi?
+### Chi sei e di che cosa ti occupi?
 Mi chiamo [Francesco Majo][web], sono nato a Gorizia nel 1967, e di professione faccio il fotografo, specializzato in food, lifestyle e viaggi.
 
 Dopo aver studiato fotografia all'[Istituto Europeo di Design][ied] a Milano, ho incominciato la mia carriera di fotografo proprio nel capoluogo Lombardo e ci sono rimasto per 13 anni. Nel 2003 mi sono trasferito con moglie e figli, allora erano 2, oggi sono 4, a Parigi per iniziare da zero una nuova avventura. 
@@ -23,15 +23,15 @@ Siamo rappresentati in tutte queste città.
 
 Recentemente ho vinto il premio del [Festival internazionale della foto culinaria][1] 2013.
 
-###Quali strumenti usi per il tuo lavoro?
+### Quali strumenti usi per il tuo lavoro?
 Per il mio lavoro di fotografo di food uso soprattutto una macchina fotografica medio formato [Hasselblad H][hasselblad] con dorso digitale [Phaseone IQ180][3] da 80MP e flash [Speedotron][speedotron] (quando necessario), altrimenti lavoro in daylight, mentre per i viaggi uso ancora la pellicola con una [Mamiya 6][4].
 
 Ma la cosa più importante, al di là della tecnologia, è la continua ricerca personale e di oggetti.
 
-###Quale software?
+### Quale software?
 I software che utilizzo maggiormente sono [Capture One][2], [Lightroom][lr] e [Photoshop][ps].
 
-###Come miglioreresti quello che usi per lavorare?
+### Come miglioreresti quello che usi per lavorare?
 Lo strumento ideale non lo ho ancora trovato, purtroppo. Il software perfetto sarebbe un Capture One con le regolazioni di Lightroom. La macchina ideale non esiste ancora anche se credo che la Hasselblad H sia ottima e molto versatile, almeno per l'uso che ne faccio io.
 
 

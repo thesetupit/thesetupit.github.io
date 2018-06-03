@@ -12,16 +12,16 @@ ritratto_width: 332
 ritratto_height: 332
 sitemap.lastmod: 2014-03-27
 ---
-###Chi sei e di che cosa ti occupi?
+### Chi sei e di che cosa ti occupi?
 Sono Alessandro Capriccioli, faccio il blogger su [Metilparaben][1] e [Libernazione][2], collaboro con varie testate giornalistiche, tra cui L'[Espresso][3] e sono un militante radicale.
 
-###Quali strumenti usi per il tuo lavoro?
+### Quali strumenti usi per il tuo lavoro?
 I miei strumenti di lavoro più preziosi sono il [linguaggio html][4] e le idiozie pronunciate quotidianamente da molti dei nostri politici.
 
-###Quale software?
+### Quale software?
 Naturalmente [Word][5]. Per la grafica [Gimp][gimp] (perché è [open source][5]) e [Illustrator][Illustrator] per la roba più sofisticata; per i generatori automatici qualche riga di codice [Javascript][6]. Poco altro.
 
-###Come miglioreresti quello che usi per lavorare?
+### Come miglioreresti quello che usi per lavorare?
 Mi piacerebbe ci fossero degli strumenti "intermedi" per poter lavorare con linguaggi tipo Flash e creare, ad esempio, giochi a "sfondo" politico senza dover diventare un esperto di programmazione.
 
 

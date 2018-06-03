@@ -11,16 +11,16 @@ ritratto_width: 332
 ritratto_height: 258
 sitemap.lastmod: 2014-03-27
 ---
-###Chi sei e di che cosa ti occupi?
+### Chi sei e di che cosa ti occupi?
 Mi chiamo [Federico Badaloni][1] e curo l'Architettura dell'Informazione per la Divisione Digitale del Gruppo Editoriale l'Espresso.
 
-###Quali strumenti usi per il tuo lavoro?
+### Quali strumenti usi per il tuo lavoro?
 Una lavagna, un astuccio con i colori, una macchina fotografica, mazzi di post it, cartoncini bristol, forbici, colla.
 
-###Quale software?
+### Quale software?
 Programmi per prototipare, programmi per fare schemi e wireframe, il pacchetto di Office, programmi per testare utenti, programmi di project management, oltre a tutti i principali strumenti di browsing web, social media e vari sistemi editoriali.
 
-###Come miglioreresti quello che usi per lavorare?
+### Come miglioreresti quello che usi per lavorare?
 In generale mi piacerebbe che i software che uso fossero molto più indipendenti dalle piattaforme e che fossero più integrabili fra loro.
 
 

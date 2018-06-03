@@ -14,12 +14,12 @@ postazione_width: 332
 postazione_height: 441
 postazione_alt: "La scrivania di Claudio Santori :)"
 ---
-###Chi sei e di che cosa ti occupi?
+### Chi sei e di che cosa ti occupi?
 Mi chiamo [Claudio Santori][1], da 10 anni vivo all'estero (prima Finlandia, ora Lituania). Due anni fa ho avuto un'idea di come poter apprendere le lingue in modo alternativo e ho fondato [Bliu Bliu][bliubliu]. Invece di offrire lezioni, offriamo la possibilità di navigare contenuti (testo audio video) al livello dello studente.
 
 Bliu Bliu è un motore di ricerca, simile a Google, solo che ricerca contenuti non solo interessanti ma soprattutto al tuo livello. In questo modo aiutiamo le persone a migliorare una lingua utilizzando contenuti veri e interessanti. Sono spesso invitato in giro per l'Europa per parlare della mia esperienza, di come passare da una semplice idea ad un prodotto.
 
-###Quali strumenti usi per il tuo lavoro?
+### Quali strumenti usi per il tuo lavoro?
 - Carta e penna
 - Timer da cucina, per lavorare in blocchi da 50 minuti senza interruzioni
 - [iPhone4][iphone], senza SIM, utilizzabile solo in zone WIFI
@@ -29,7 +29,7 @@ Bliu Bliu è un motore di ricerca, simile a Google, solo che ricerca contenuti n
 - Tappi per le orecchie
 - Vecchio telefono cellulare Nokia
 
-###Quale software?
+### Quale software?
 - [Toodledo][toodledo], per la gestione della mia lista di cose da fare
 - [Trello][trello], per la gestione degli aggiornamenti del sito web
 - [Slack][slack], per gestire la comunicazione con il mio team
@@ -42,7 +42,7 @@ Bliu Bliu è un motore di ricerca, simile a Google, solo che ricerca contenuti n
 - [f.lux][flux], che cambia la luminosità dello schermo in base all'orario, rilassando la vista durante le ore notturne
 - [Bliu Bliu][bliubliu], per l'apprendimento delle lingue :)
 
-###Come miglioreresti quello che usi per lavorare?
+### Come miglioreresti quello che usi per lavorare?
 Il mio timer da cucina è lo strumento più prezioso che ho e non credo si possa migliorare. Per quando riguarda i vari software che utilizzo, certamente potrebbero comunicare di più tra loro, scambiarsi informazioni ed imparare dal mio comportamento. Ma credo che la tecnologia si stia muovendo nella giusta direzione.
 
 

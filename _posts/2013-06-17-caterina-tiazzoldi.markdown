@@ -17,7 +17,7 @@ postazione_credit: "Il ritratto è ®Anastasios Mentis<br />L'immagine di <em>To
 postazione_alt: "Toolbox Torino office lab & coworking"
 sitemap.lastmod: 2014-03-27
 ---
-###Chi sei e di che cosa ti occupi?
+### Chi sei e di che cosa ti occupi?
 Sono architetto e inventore.
 
 Lavoro a cavallo tra la ricerca e la pratica professionale. Sono titolare dello studio di progettazione [Caterina Tiazzoldi / Nuova Ordentra][1] e direttore della [Non Linear Solutions Unit][2] della facoltà di architettura della Columbia University.
@@ -31,7 +31,7 @@ Per esempio il progetto del coworking [Toolbox][3], con cui abbiamo vinto il pre
 Tutti i progetti su cui lavoro richiedono di definire nuove frontiere nell’utilizzo dello spazio e delle città in cui viviamo. 
 Onion Pinch, nominato al Cooper Hewitt Museum National Design Award, trasforma una stazione della metropolitana di Lisbona in un parco giochi per bambini: un piccolo intervento che cambia la relazione fra spazio pubblico e spazio domestico.
 
-###Quali strumenti usi per il tuo lavoro?
+### Quali strumenti usi per il tuo lavoro?
 Il mio lavoro si basa sulla ricerca di nuove tipologie di spazio e di soluzioni tecniche per creare nuove frontiere e nuovi organismi spaziali.
 
 In particolare, il mio metodo di indagine si basa sul metodo dell’*ibridazione combinatoria*, che deriva dal mondo delle scienze della complessità. Ho lavorato con molti centri di ricerca sulle scienze della complessità, come per esempio il Santa Fe Institute per capire come avviene l’ibridazione nella metodologia dei complex adaptive systems.
@@ -41,7 +41,7 @@ Proprio come nel caso di un algoritmo genetico, inizialmente si isolano i *fenot
 
 In questo modo è possibile avvicinarsi a temi nuovi creando nuove combinazioni. È possibile studiare molte soluzioni che permettono di avere una buona comprensione di un progetto, anche se del tutto nuovo. Creare nuove specie di architettura e di design. Mettendo in relazione le caratteristiche di uno spazio con quelle di un altro.
 
-###Quale software?
+### Quale software?
 Utilizzo un po’ di tutto: Maya, Rhino, Grasshopper, 3DS Max, Photoshop, Autocad, Excel, InDesign, Illustrator, Premiere.
 
 Il cuore del mio lavoro sono i software associativi: date le proprietà spaziali (lunghezza, distanza, colore, texture) in relazione al tipo di spazio che si vuole ottenere, si ottiene una gamma di varianti che mette in relazione la variazione di un dato a un tipo di performance dello spazio.
@@ -58,7 +58,7 @@ Nell’installazione interattiva [Social Cave][8], che abbiamo realizzato come o
 
 Questo approccio si può applicare anche alla fase di messa a punto di un nuovo concept o di una nuova tipologia di spazio creando quindi situazioni ad hoc per ogni cliente: come citavamo precedentemente nell’esempio di Toolbox abbiamo creato un ibrido fra le proprietà spaziali di un coworking e quelle di un centro uffici tradizionale. Per Onion Pinch abbiamo creato un ibrido fra una stazione metropolitana e un parco giochi, lavorando con il tema della giocosità interpretata come flessibilità alle pressioni del corpo umano.
 
-###Come miglioreresti quello che usi per lavorare?
+### Come miglioreresti quello che usi per lavorare?
 Ogni software va bene per qualcosa di diverso e non potrebbe essere altrimenti: vado sempre avanti e indietro da uno all’altro. Fai una prova, verifichi, torni indietro. Quindi i procedimenti di import export avanti e indietro sono fondamentali. A volte bisogna fare dei percorsi strani: per esempio a volte devi passare da vecchie versioni autocad per poter passare da rhino a max. I dxf fanno riferimento a versioni diverse quindi questi passaggi sono sempre un po’ un terno al lotto. Bisogna conoscere o inventarsi mille tricks.
 
 L’altra cosa che mi piacerebbe migliorare sono i metodi di archivio delle definizioni dei software associativi. I software evolvono molto in fretta e raramente le nuove versioni sono compatibili con i vecchi file. Mi è capitato di perdere materiale.
