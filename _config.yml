@@ -1,7 +1,6 @@
 name: thesetup.it
 description: "Quali strumenti usi?"
-markdown: redcarpet
-pygments: true
+highlighter: rouge
 permalink: /:title/
 timezone: Europe/Rome
 baseurl: http://thesetup.it
