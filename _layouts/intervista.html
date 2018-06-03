@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-{% include fb-init.html %}
 <div itemscope itemtype="http://schema.org/Article" id="wrapper">
 {% include nav.html %}
 <section id="content">
@@ -12,11 +11,6 @@ layout: default
                 <img width="{{ page.ritratto_width }}" height="{{ page.ritratto_height }}" src="{{ site.baseurl }}/immagini/{{ page.ritratto }}" alt="{{ page.nome }}" itemprop="image" />
             </figure>
             <header id="titolo-intervista"><h2 class="indice"><a href="{{ page.url }}" rel="bookmark" title="{{ page.title }}" itemprop="name">{{ page.nome }}</a></h2></header>
-            <aside id="social">
-              <div class="fb-like" data-href="{{ page.url }}" data-send="false" data-layout="button_count" data-width="450" data-show-faces="false"></div>
-                <a href="https://twitter.com/share" class="twitter-share-button" data-via="thesetupit" data-lang="it"></a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
-            </aside>
             <div class="clear"></div>
 <div itemprop="articleBody">
 {{ content }}
