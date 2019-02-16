@@ -3,7 +3,7 @@ description: "Quali strumenti usi?"
 highlighter: rouge
 permalink: /:title/
 timezone: Europe/Rome
-baseurl: http://thesetup.it
+baseurl: https://thesetup.it
 exclude:
 - README.md
 - CNAME
