@@ -17,7 +17,7 @@ postazione_alt: "La scrivania di Francesco Dimitri"
 sitemap.lastmod: 2014-03-27
 ---
 ### Chi sei e di che cosa ti occupi?
-Sono [Francesco Dimitri][1] e scrivo. Principalmente [romanzi][2] e fumetti, ma anche altre cose – contenuti di comunicazione, progetti digitali, varie ed eventuali.
+Sono Francesco Dimitri e scrivo. Principalmente [romanzi][2] e fumetti, ma anche altre cose – contenuti di comunicazione, progetti digitali, varie ed eventuali.
 
 ### Quali strumenti usi per il tuo lavoro?
 Un iMac e un [MacBook Air][mbair] (dovendo scegliere, terrei solo il portatile). Poi, matita e fogli sparsi per prendere appunti e improvvisare mappe mentali quando mi serve. Un mucchio di libri – proprio un mucchio. A volte un mazzo di tarocchi.
@@ -31,7 +31,6 @@ Per le ricerche online uso [Chrome][gchrome]. Per call di lavoro [Skype][skype].
 Il mio sogno proibito? Eccolo. Un tablet dedicato, con uno schermo e-ink, che serve solo a scrivere, e basta. Un tablet su cui puoi scrivere a mano con una penna, e che riconosce la tua grafia senza errori, e la converte in tempo reale in caratteri da schermo. E ti salva il tutto in vari formati. Ovviamente che sia responsivo in tempo reale. E che abbia uno spell checker incorporato. A me sembra una cosa che avrebbe un grosso impatto sulla vita di tutti quelli che si guadagnano da vivere scrivendo, ma anche di alunni, insegnanti, un sacco di gente. Perché nessuno l’ha ancora fatto? E se qualcuno l’ha fatto, perché non me l’ha detto?
 
 
-[1]: http://francescodimitri.co.uk/ "Sito web di Francesco Dimitri"
 [2]: http://www.amazon.it/s?_encoding=UTF8&amp;field-author=Francesco%20Dimitri&amp;search-alias=stripbooks "Amazon.it: libri di Francesco Dimitri"
 [mbair]: http://www.apple.com/it/macbook-air/ "Apple Macbook Air"
 [gchrome]: http://www.google.com/chrome/
